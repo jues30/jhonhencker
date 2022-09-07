@@ -45,4 +45,5 @@ class InterfazGeneral {
     const LA_ARMADURA = 19;
     const ESQUIZOFRENIA = 20;
     const YUCIDA = 21;
+    const MILENA = 22;
 }
