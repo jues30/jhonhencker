@@ -46,4 +46,6 @@ class InterfazGeneral {
     const ESQUIZOFRENIA = 20;
     const YUCIDA = 21;
     const MILENA = 22;
+    const JOLLIN = 23;
+    const EN_BOCA_CERRADA = 24;
 }

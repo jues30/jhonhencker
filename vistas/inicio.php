@@ -110,12 +110,12 @@
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">El Jollín de las Brujas</a></h4>
+					<h4><a href="el_jollin_de_las_brujas.php#body">El Jollín de las Brujas</a></h4>
 					<p><em>Saga: Las Tres Sombras.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">En Boca Cerrada</a></h4>
+					<h4><a href="en_boca_cerrada.php#body">En Boca Cerrada</a></h4>
 					<p><em>Saga: Las Tres Sombras.</em></p>
 				<p></p>
 				</div>
