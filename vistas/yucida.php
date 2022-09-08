@@ -11,7 +11,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
-                    <img src="assets/img/estatua.jpg" class="img-fluid" alt="Biblioteca de Alejandría">
+                    <img src="assets/img/<?php echo $id_obra; ?>.jpg" class="img-fluid" alt="Obra de Zdzislaw Beksinski">
+                    Obra de Zdzislaw Beksinski
                 </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Yúcida</h3>
@@ -20,15 +21,16 @@
                     <p>
                     -El término Selyúcida proviene de los turcos antiguos -me aseguró el individuo mientras caminaba de un lado al otro de la sala. Miraba pensativo las negras baldosas del suelo, como si buscara su distorsionado y pálido reflejo.
                     <br>Yo no podía hacer más que mirarlo, petrificado del miedo. Él de vez en cuando hacía bailar sus dedos al compás de la música que sonaba. En ese momento era la Appassionata de Beethoven. Poco a poco se me había quitado el mareo producido por la droga que él me había dado para llevarme hasta esa sala. Ni siquiera sabía dónde estaba, ni quién era él, ni qué era.
-                    <br>-Pero el término «Yúcida» tiene un significado muy distinto -agregó. Entonces me miró con esos brillantes ojos mieles, casi amarillos, como crisoberilos al sol. Su rostro era tan pálido que parecía un tallado maestro sobre hueso, y sus facciones eran tan perfectas que era inimaginable decir que no era atractivo, aunque cueste decirlo.
-                    <br>-¿Dónde estoy? -pregunté con la voz trémula. Mi frente estaba empapada de sudor y mi respiración era acelerada a causa del miedo.
-                    <br>Él se detuvo un momento, examinándome. –En medio de la nada -me respondió.
-                    <br>-¿Cómo llegué aquí?
                     </p>
                 </div>
             </div>
             <div class="row" align="justify">
-                <p>-Te tomé en el parqueadero del edificio de tu apartamento, cuando ibas a trabajar. Esperé hasta que llegara la noche y te traje. Te drogué- me respondió. Sin embargo, aunque suene extraño, su tono de voz era culto y tranquilizador, pausado y muy pulcro. Aunque su presencia me atemorizaba, su voz parecía calmarme.
+                <p>
+                    <br>-Pero el término «Yúcida» tiene un significado muy distinto -agregó. Entonces me miró con esos brillantes ojos mieles, casi amarillos, como crisoberilos al sol. Su rostro era tan pálido que parecía un tallado maestro sobre hueso, y sus facciones eran tan perfectas que era inimaginable decir que no era atractivo, aunque cueste decirlo.
+                    <br>-¿Dónde estoy? -pregunté con la voz trémula. Mi frente estaba empapada de sudor y mi respiración era acelerada a causa del miedo.
+                    <br>Él se detuvo un momento, examinándome. –En medio de la nada -me respondió.
+                    <br>-¿Cómo llegué aquí?
+                    <br>-Te tomé en el parqueadero del edificio de tu apartamento, cuando ibas a trabajar. Esperé hasta que llegara la noche y te traje. Te drogué- me respondió. Sin embargo, aunque suene extraño, su tono de voz era culto y tranquilizador, pausado y muy pulcro. Aunque su presencia me atemorizaba, su voz parecía calmarme.
                     <br>-¿Y qué me va a hacer? -pregunté-. No tengo mucho dinero, si esto se trata de un secuestro -añadí.
                     <br>Pero él meneó la cabeza. –No se trata de un secuestro -respondió. En ese momento volvió a caminar de un lado al otro. –La palabra Selyúcida se remonta a Silyuq o Selchuk, un jefe turco de la tribu de los Kinik. Fueron una tribu fuerte, que después se convirtió en un poderoso imperio.
                     <br>-¿Qué me va a hacer? -volví a preguntar. Sus ojos amarillos y brillosos me intimidaban. No era robusto, pero yo presentía, y no de manera errónea, que tenía una fuerza inhumana. Estaba finamente vestido con un paño elegantísimo de color negro, y tenía una camisa blanca que relucía a la luz de las lámparas de vidrio que pendían del techo de la sala. A mi izquierda había una chimenea apagada, a mi derecha algunos anaqueles con libros, y a mi alrededor sillas y un sillón doble de color verde.

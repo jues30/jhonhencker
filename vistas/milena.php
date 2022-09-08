@@ -11,7 +11,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
-                    <img src="assets/img/estatua.jpg" class="img-fluid" alt="Biblioteca de Alejandría">
+                    <img src="assets/img/<?php echo $id_obra; ?>.jpg" class="img-fluid" alt="Obra de Zdzislaw Beksinski">
+                    Obra de Zdzislaw Beksinski
                 </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Milena</h3>
@@ -24,13 +25,13 @@
                     <p>
                     Recuerdo con nostalgia cuánta alegría me daba al verla, con su cabello rojizo suelto al viento, y sus ojos almendrados brillando como soles verdes en un rostro marmóreo y fino. Yo quería comprometerme rápido con ella, pero Milena por el contrario quería ser libre, experimentar, conocer. Y en su afán de locura, se llevó mis sentimientos a los abismos. Sí que sufrí durante nuestra relación, pensando dónde estaría, con quién estaría, qué estaría haciendo. Finalmente, después de unos años, decidimos terminar el noviazgo.
                     </p>
-                    <p>
-                    Sin embargo, durante muchos años ella siguió atormentándome, provocándome en cada encuentro (pues sabía que yo seguía enamorado de ella). Y cuando yo caía a sus pies, ella, con mirada triunfal, volteaba el rostro para evadir el beso, o ponía sobre mí otros hombres, humillando mi ego. Nunca quiso verme con otra mujer, pero tampoco me quiso a su lado. Estos dolorosos años hicieron que la amara y a la vez que la odiara con todas mis fuerzas.
-                    </p>
                 </div>
             </div>
             <div class="row" align="justify">
-                <p><br>
+                 <p><br>
+            Sin embargo, durante muchos años ella siguió atormentándome, provocándome en cada encuentro (pues sabía que yo seguía enamorado de ella). Y cuando yo caía a sus pies, ella, con mirada triunfal, volteaba el rostro para evadir el beso, o ponía sobre mí otros hombres, humillando mi ego. Nunca quiso verme con otra mujer, pero tampoco me quiso a su lado. Estos dolorosos años hicieron que la amara y a la vez que la odiara con todas mis fuerzas.
+                </p>
+                <p>
             Yo tenía veinticinco años cuando supe de su muerte, causada por un accidente de tránsito. La lloré como ninguna otra persona, aunque parte de mí descansó por fin de esa amarga dependencia. El saber que ya no estaba inspiró en mí satisfacción más que angustia, pues ya a esa edad la odiaba, casi tanto como a mí mismo. 
                 </p>
                 <p>

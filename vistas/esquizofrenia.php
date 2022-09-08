@@ -11,7 +11,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
-                    <img src="assets/img/estatua.jpg" class="img-fluid" alt="Biblioteca de Alejandría">
+                    <img src="assets/img/<?php echo $id_obra; ?>.jpg" class="img-fluid" alt="Obra de Zdzislaw Beksinski">
+                    Obra de Zdzislaw Beksinski
                 </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Esquizofrenia</h3>
@@ -23,13 +24,13 @@
                     <p>
                     Pero todo inició con el descontento entre Dulce y Vladimir. Ella era una hermosa niña de doce años, y Vladimir, ya octogenario, era su cuidador. En la mitad siempre estaba Nicolás, un hombre de edad media que prácticamente servía como mediador. Los tres vivían en una hermosa villa a las afueras del reino, con casitas de tejas anaranjadas y ladrillos blancos, techos góticos y plazas empedradas. En verdad era un lindo lugar, donde muchas mariposas azules revoloteaban por las calles y las fuentes de agua eran cristalinas. 
                     </p>
-                    <p>
-                    La discusión siempre se concentró en los caprichos de Dulce, pues ella amaba las joyas azules, y siempre que veía a una mujer con joyas de este color armaba un escándalo, esperando que Nicolás se las quitara a las mujeres para dárselas a ella. Dulce no quería que Nicolás le comprara las joyas, no, ella quería que Nicolás las robara a las otras mujeres, como si la envidia fuera más fuerte que el deseo, y la pérdida de las otras mujeres fuera más importante que tener las joyas ella misma.
-                    </p>
                 </div>
             </div>
             <div class="row" align="justify">
-                <p><br>
+                 <p><br>
+            La discusión siempre se concentró en los caprichos de Dulce, pues ella amaba las joyas azules, y siempre que veía a una mujer con joyas de este color armaba un escándalo, esperando que Nicolás se las quitara a las mujeres para dárselas a ella. Dulce no quería que Nicolás le comprara las joyas, no, ella quería que Nicolás las robara a las otras mujeres, como si la envidia fuera más fuerte que el deseo, y la pérdida de las otras mujeres fuera más importante que tener las joyas ella misma.
+                </p>
+                <p>
             Por otro lado, el anciano Vladimir siempre establecía los límites. No permitía a Dulce extender mucho el alboroto, y su voz severa y siseante siempre calmaba a Nicolás. Aunque el viejo era muy crítico con el hombre, y lo trataba de tonto e ignorante, era mucho más severo con Dulce, intentando siempre corregirla con ecos sonoros.
                 </p>
                 <p>

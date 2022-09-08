@@ -11,7 +11,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
-                    <img src="assets/img/estatua.jpg" class="img-fluid" alt="Biblioteca de Alejandría">
+                    <img src="assets/img/<?php echo $id_obra; ?>.jpg" class="img-fluid" alt="Obra de Zdzislaw Beksinski">
+                    Obra de Zdzislaw Beksinski
                 </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>El Castillo de la Quimera</h3>
@@ -23,13 +24,13 @@
                     <p>
                     Su apariencia no era la de una joven hermosa que solicita el trabajo de sirvienta. Por el contrario, su aspecto físico era poco armonioso, incluso desagradable. Su curtido rostro tenía verrugas bajo la barbilla y sobre la mejilla derecha, y tenía protuberancias en la frente, alrededor de los labios y en el cuello. Tenía facciones descarnadas, como azotadas por el látigo inclemente de la pobreza, y su cabello estaba arremolinado en una densa maraña negra.
                     </p>
-                    <p>
-                    ¿Pero cómo negarme a su solicitud de ser mi sirvienta? ¿Acaso debía juzgarla por su aspecto físico? ¿Acaso necesitaba una sirvienta hermosa? ¿Para qué? ¿Quizás para que compitiera con mi esposa? Simplemente no pude negarme a aceptarla. Además, necesitaba a una sirvienta urgente para que se encargara de los cuartos del ala derecha del castillo, que habían sido olvidados por meses.
-                    </p>
                 </div>
             </div>
             <div class="row" align="justify">
-                <p><br>
+                 <p><br>
+                    ¿Pero cómo negarme a su solicitud de ser mi sirvienta? ¿Acaso debía juzgarla por su aspecto físico? ¿Acaso necesitaba una sirvienta hermosa? ¿Para qué? ¿Quizás para que compitiera con mi esposa? Simplemente no pude negarme a aceptarla. Además, necesitaba a una sirvienta urgente para que se encargara de los cuartos del ala derecha del castillo, que habían sido olvidados por meses.
+                </p>
+                <p>
             Pero antes de seguir la historia, relataré algunos puntos que considero importantes. El Castillo de la Quimera fue edificado por los Arbués durante la era Napoleónica. Algunos dicen que una gran brujería ronda la edificación. Durante su construcción, la ladera de la garganta boscosa donde está erigido sufrió dos derrumbes. En el primer deslizamiento de tierra murieron dos trabajadores, y en el segundo murió uno de los Arbués.
                 </p>
                 <p>

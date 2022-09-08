@@ -11,7 +11,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
-                    <img src="assets/img/estatua.jpg" class="img-fluid" alt="Biblioteca de Alejandría">
+                    <img src="assets/img/<?php echo $id_obra; ?>.jpg" class="img-fluid" alt="Obra de Zdzislaw Beksinski">
+                    Obra de Zdzislaw Beksinski
                 </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>El Hipogeo</h3>
@@ -26,13 +27,13 @@
                     <p>
                     En cambio, a María la conocí desde que tenía ocho años. Aunque hermosa, ella y yo nunca tuvimos una relación sentimental. Cuando sucedió todo lo que voy a relatar, ella estaba estudiando enfermería.
                     </p>
+                    <p>
+                    María y Pablo se conocieron en una reunión que hice. Yo mismo los presenté. Aunque casi de inmediato hubo una atracción, mi querida amiga ya estaba comprometida con un respetado abogado, hijo de un socio de su padre. Debo aclarar que María proviene de una familia muy prominente y adinerada.
+                    </p>
                 </div>
             </div>
             <div class="row" align="justify">
                 <p><br>
-            María y Pablo se conocieron en una reunión que hice. Yo mismo los presenté. Aunque casi de inmediato hubo una atracción, mi querida amiga ya estaba comprometida con un respetado abogado, hijo de un socio de su padre. Debo aclarar que María proviene de una familia muy prominente y adinerada.
-                </p>
-                <p>
             La relación de ambos fue desarrollándose con el tiempo. Fue para Pablo una relación platónica, pues en secreto amaba a mi querida amiga. Yo de todo me enteraba, pues todo me lo contaba. María hablaba poco de su prometido. Incluso alcancé a pensar que no lo amaba de verdad. En cambio, cuando hablaba con Pablo sus ojos lanzaban destellos de alegría, y se sonrojaba con frecuencia. Yo la conocía bien, quizás mejor que nadie, y su risa nerviosa la delataba. 
                 </p>
                 <p>

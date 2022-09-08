@@ -11,7 +11,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
-                    <img src="assets/img/estatua.jpg" class="img-fluid" alt="Biblioteca de Alejandría">
+                    <img src="assets/img/<?php echo $id_obra; ?>.jpg" class="img-fluid" alt="Obra de Zdzislaw Beksinski">
+                    Obra de Zdzislaw Beksinski
                 </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>En Boca Cerrada...</h3>
@@ -24,7 +25,10 @@
                     <p>
                     Aunque se habla mucho de la prisión de Alcatraz y se denuncian las atrocidades de Guantánamo, hubo en una isla del océano pacífico una cárcel horripilante, terrible e inclemente, llena de serpientes venenosas e inspirada en los campos de concentración nazi: La Gorgona. Incluso aún hay allí una placa con un poema que dice:
                     </p>
-                    <p class="fst-italic" align="center">
+                </div>
+            </div>
+            <div class="row" align="justify">
+                <p class="fst-italic" align="center"><br>
                     «Maldito este lugar... maldito sea.
                     <br>Aquí sólo se respira la tristeza
                     <br>aquí se bebe el cáliz más amargo
@@ -33,14 +37,11 @@
                     <br>aquí el alma no tiene sensaciones
                     <br>aquí el amor no tiene compañera
                     <br>y pierde el corazón sus ilusiones».
-                    </p>
-                    <p class="fst-italic" align="right">
-                        Anónimo.
-                    </p>
-                </div>
-            </div>
-            <div class="row" align="justify">
-                <p><br>
+                </p>
+                <p class="fst-italic" align="right">
+                    Anónimo.
+                </p>
+                <p>
             Esta horrible prisión se convirtió en el hogar de reclusión de Oscar por casi un año; llevado allí a inicio de año en un buque totalmente cerrado. Fue condenado por matar a una joven a golpes a causa de sus diferencias políticas, sin conocer que la joven tenía fama de ser una bruja. Lo último que dijo la joven fue el viejo refrán: «En boca cerrada no entran moscas». Inicialmente fue una frase sin sentido, pero de repente tomó mucho significado.
                 </p>
                 <p>
