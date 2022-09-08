@@ -11,7 +11,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
-                    <img src="assets/img/estatua.jpg" class="img-fluid" alt="Biblioteca de Alejandría">
+                    <img src="assets/img/<?php echo $id_obra; ?>.jpg" class="img-fluid" alt="Obra de Zdzislaw Beksinski">
+                    Obra de Zdzislaw Beksinski
                 </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>El Espejo</h3>
@@ -23,13 +24,13 @@
                     <p>
                     Cuando niños, mi hermano Darío y yo éramos inseparables, pues a edad temprana todavía disfrutábamos el ser distintos a los demás. En el colegio realizábamos bromas, aun a los profesores, pues nos hacíamos pasar por el otro, y nos jactábamos de nuestras travesuras al llegar a la casa. A veces, aunque uno de los dos disfrutaba, el otro tenía que aguantarse algún regaño a causa de una mala calificación o de alguna travesura que el otro había ejecutado, y allí venían los conflictos.
                     </p>
-                    <p>
-                    Darío y yo, aunque físicamente éramos iguales, teníamos personalidades completamente diferentes. Yo era más cauto, conservador y tímido. En cambio, Darío era extrovertido, alegre y muy buen conversador. Cuando realizábamos estas bromas teníamos que fingir, pero a mí, por supuesto, se me hacía más complicada la empresa. Por otro lado, yo era mucho mejor en los deportes, y era en esas situaciones cuando él tenía que esforzase, y yo simplemente disfrutaba.
-                    </p>
                 </div>
             </div>
             <div class="row" align="justify">
                 <p><br>
+                    Darío y yo, aunque físicamente éramos iguales, teníamos personalidades completamente diferentes. Yo era más cauto, conservador y tímido. En cambio, Darío era extrovertido, alegre y muy buen conversador. Cuando realizábamos estas bromas teníamos que fingir, pero a mí, por supuesto, se me hacía más complicada la empresa. Por otro lado, yo era mucho mejor en los deportes, y era en esas situaciones cuando él tenía que esforzase, y yo simplemente disfrutaba.
+                    </p>
+                <p>
             Los años de colegio fueron en verdad alegres. En ese tiempo ambos vestíamos igual, nos peinábamos igual y hablábamos casi igual, aunque los temas y los ademanes eran distintos. A menudo Darío me defendía de los bravucones de grados mayores, y yo le ayudaba con las tareas de biología y química, pues él no era muy bueno para resolver esos problemas. Recordar aquellos tiempos me da nostalgia, pero ya no hay vuelta atrás.
                 </p>
                 <p>
