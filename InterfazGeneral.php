@@ -48,4 +48,5 @@ class InterfazGeneral {
     const MILENA = 22;
     const JOLLIN = 23;
     const EN_BOCA_CERRADA = 24;
+    const LA_PESADILLA = 25;
 }

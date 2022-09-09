@@ -65,12 +65,12 @@
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="el_demonio_de_la_montana.php#body">El Demonio de la Montaña</a></h4>
+					<h4><a href="el_templo_subterraneo.php#body">El Templo Subterráneo</a></h4>
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
-          <div class="resume-item pb-0">
-					<h4><a href="el_templo_subterraneo.php#body">El Templo Subterráneo</a></h4>
+                                <div class="resume-item pb-0">
+					<h4><a href="la_pesadilla.php#body">La Pesadilla</a></h4>
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
@@ -86,24 +86,29 @@
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="la_armadura.php#body">La Armadura</a></h4>
-					<p><em>Libro: Los Jardines Rojos.</em></p>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="esquizofrenia.php#body">Esquizofrenia</a></h4>
-					<p><em>Libro: Los Jardines Rojos.</em></p>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
-					<div class="resume-item pb-0">
+                                <div class="resume-item pb-0">
+					<h4><a href="el_demonio_de_la_montana.php#body">El Demonio de la Montaña</a></h4>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
 					<h4><a href="yucida.php#body">Yúcida</a></h4>
-					<p><em>Libro: Los Jardines Rojos.</em></p>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="el_hipogeo.php#body">El Hipogeo</a></h4>
-					<p><em>Libro: Los Jardines Rojos.</em></p>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
-        </div>
+                                </div>
 				<div class="resume-item pb-0">
 					<h4><a href="milena.php#body">Milena</a></h4>
 					<p><em>Saga: Las Tres Sombras.</em></p>
@@ -117,11 +122,6 @@
 				<div class="resume-item pb-0">
 					<h4><a href="en_boca_cerrada.php#body">En Boca Cerrada...</a></h4>
 					<p><em>Saga: Las Tres Sombras.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="#">La Pesadilla</a></h4>
-					<p><em>Libro: Los Jardines Rojos.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
@@ -149,9 +149,9 @@
 					<p><em>Libro: Los Jardines Rojos.</em></p>
 				<p></p>
 				</div>
-        </div>
-     <div class="col-lg-6">
-			<h3 class="resume-title">Poemas</h3>
+                            </div>
+                            <div class="col-lg-6">
+                            <h3 class="resume-title">Poemas</h3>
 				<div class="resume-item pb-0">
 					<h4><a href="#">Las Dos Terribles Compañeras</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
