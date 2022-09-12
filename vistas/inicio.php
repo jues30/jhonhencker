@@ -124,13 +124,18 @@
 					<p><em>Saga: Las Tres Sombras.</em></p>
 				<p></p>
 				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="#">La Dama de las Ratas</a></h4>
-					<p><em>Libro: Los Jardines Rojos.</em></p>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="libros/cada_minuto_a_su_lado.pdf" target="_blank">Cada Minuto a su Lado</a></h4>
+					<p><em>Libro: Colección.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">El Ladrón</a></h4>
+					<h4><a href="el_ladron.php#body">El Ladrón</a></h4>
+					<p><em>Libro: Los Jardines Rojos.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+					<h4><a href="#">La Dama de las Ratas</a></h4>
 					<p><em>Libro: Los Jardines Rojos.</em></p>
 				<p></p>
 				</div>
