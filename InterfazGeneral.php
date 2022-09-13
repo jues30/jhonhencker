@@ -50,4 +50,8 @@ class InterfazGeneral {
     const EN_BOCA_CERRADA = 24;
     const LA_PESADILLA = 25;
     const EL_LADRON = 27;
+    const LAS_COMPANERAS = 28;
+    const SIGUE_ADELANTE = 29;
+    const LA_ESTATUA = 30;
+    const LOS_MUNDOS_PRODUCIDOS = 31;
 }

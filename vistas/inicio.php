@@ -158,12 +158,32 @@
                             <div class="col-lg-6">
                             <h3 class="resume-title">Poemas</h3>
 				<div class="resume-item pb-0">
-					<h4><a href="#">Las Dos Terribles Compañeras</a></h4>
+                                        <h4><a href="las_dos_terribles_companeras.php#body">Las Dos Terribles Compañeras</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">Sigue Adelante</a></h4>
+					<h4><a href="sigue_adelante.php#body">Sigue Adelante</a></h4>
+					<p><em>Estilo: Verso.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+					<h4><a href="la_estatua.php#body">La Estatua</a></h4>
+					<p><em>Estilo: Prosa.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="los_mundos_producidos.php#body">Los Mundos Producidos por la Mujer</a></h4>
+					<p><em>Estilo: Prosa.</em></p>
+				<p></p>
+				</div>
+				<div class="resume-item pb-0">
+					<h4><a href="#">El Juego</a></h4>
+					<p><em>Estilo: Prosa.</em></p>
+				<p></p>
+				</div>
+				<div class="resume-item pb-0">
+					<h4><a href="#">El Campanario</a></h4>
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
@@ -184,26 +204,6 @@
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="#">La Piedad Negra</a></h4>
-					<p><em>Estilo: Prosa.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="#">Los Mundos Producidos por la Mujer</a></h4>
-					<p><em>Estilo: Prosa.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="#">El Juego</a></h4>
-					<p><em>Estilo: Prosa.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="#">El Campanario</a></h4>
-					<p><em>Estilo: Verso.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="#">La Estatua</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
 				<p></p>
 				</div>
