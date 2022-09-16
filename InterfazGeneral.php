@@ -54,4 +54,8 @@ class InterfazGeneral {
     const SIGUE_ADELANTE = 29;
     const LA_ESTATUA = 30;
     const LOS_MUNDOS_PRODUCIDOS = 31;
+    const EL_JUEGO = 32;
+    const EL_CAMPANARIO = 33;
+    const A_LA_SOMBRA_DEL_ARBOL = 34;
+    const EL_CADAVER_DE_UN_ANGEL = 35;
 }

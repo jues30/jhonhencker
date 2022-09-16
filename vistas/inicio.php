@@ -178,22 +178,22 @@
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">El Juego</a></h4>
+					<h4><a href="el_juego.php#body">La Canción del Juego</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">El Campanario</a></h4>
+					<h4><a href="el_campanario.php#body">El Campanario</a></h4>
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">A la Sombra del Árbol</a></h4>
+                                        <h4><a href="a_la_sombra_del_arbol.php#body">A la Sombra del Árbol</a></h4>
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">El Cadáver de un Ángel</a></h4>
+					<h4><a href="el_cadaver_de_un_angel.php#body">El Cadáver de un Ángel</a></h4>
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
