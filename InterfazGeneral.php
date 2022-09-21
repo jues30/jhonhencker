@@ -61,6 +61,9 @@ class InterfazGeneral {
     const LA_BIENVENIDA = 36;
     const LA_PIEDAD_NEGRA = 37;
     const EL_CASTILLO = 38;
+    const EL_TRASNOCHO = 39;
+    const UNA_TRISTE_AMISTAD = 40;
+    const UN_MAGICO_CUADRO = 41;
     
     
 }

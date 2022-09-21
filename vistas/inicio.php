@@ -213,17 +213,17 @@
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">El Trasnocho</a></h4>
+                                        <h4><a href="el_trasnocho.php#body">El Trasnocho</a></h4>
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">Una Triste Amistad</a></h4>
+                                        <h4><a href="una_triste_amistad.php#body">Una Triste Amistad</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">Un Mágico Cuadro</a></h4>
+                                        <h4><a href="un_magico_cuadro.php#body">Un Mágico Cuadro</a></h4>
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
