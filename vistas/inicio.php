@@ -198,17 +198,17 @@
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">La Bienvenida</a></h4>
+                                    <h4><a href="la_bienvenida.php#body">La Bienvenida</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">La Piedad Negra</a></h4>
+                                        <h4><a href="la_piedad_negra.php#body">La Piedad Negra</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">El Castillo</a></h4>
+                                        <h4><a href="el_castillo.php#body">El Castillo</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
 				<p></p>
 				</div>

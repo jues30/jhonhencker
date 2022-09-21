@@ -58,4 +58,9 @@ class InterfazGeneral {
     const EL_CAMPANARIO = 33;
     const A_LA_SOMBRA_DEL_ARBOL = 34;
     const EL_CADAVER_DE_UN_ANGEL = 35;
+    const LA_BIENVENIDA = 36;
+    const LA_PIEDAD_NEGRA = 37;
+    const EL_CASTILLO = 38;
+    
+    
 }
