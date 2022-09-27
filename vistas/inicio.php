@@ -228,7 +228,7 @@
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">Los Poemas Sin Autor</a></h4>
+                                    <h4><a href="los_poemas_sin_autor.php#body">Los Poemas Sin Autor</a></h4>
 					<p><em>Libro: Colección.</em></p>
 				<p></p>
 				</div>
