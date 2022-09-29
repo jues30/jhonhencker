@@ -131,27 +131,27 @@
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="el_ladron.php#body">El Ladrón</a></h4>
-					<p><em>Libro: Los Jardines Rojos.</em></p>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
 					<h4><a href="#">La Dama de las Ratas</a></h4>
-					<p><em>Libro: Los Jardines Rojos.</em></p>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="#">La Sepultura</a></h4>
-					<p><em>Libro: Los Jardines Rojos.</em></p>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="#">Crónicas de un Sinistro Secuestro</a></h4>
-					<p><em>Libro: Los Jardines Rojos.</em></p>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="#">Un Cuerpo en la Selva</a></h4>
-					<p><em>Libro: Los Jardines Rojos.</em></p>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
                             </div>
