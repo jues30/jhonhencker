@@ -24,7 +24,7 @@
                     Aunque la red neuronal sólo sirvio como inspiración a estos poemas, el autor decidió llamarlos Los Poemas Sin Autor aluciendo que, aunque él creo la red neuronal e hizo los poemas, la obra pertenece a la inspiración; pero para este caso los poemas no tienen dueño alguno.
                     </p>
                     <p>
-                    A continuación están algunos de Los Poemas Sin Autor (todos los poemas se encuentran en el libro Colleción):
+                    A continuación están algunos de Los Poemas Sin Autor (todos los poemas se encuentran en el libro Coleción):
                     </p>
                 </div> 
                 </div>

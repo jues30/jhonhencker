@@ -154,6 +154,16 @@
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="#">Terror en Frases Cortas</a></h4>
+					<p><em>Libro: Colección.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="#">Helena</a></h4>
+					<p><em>Libro: Colección.</em></p>
+				<p></p>
+				</div>
                             </div>
                             <div class="col-lg-6">
                             <h3 class="resume-title">Poemas</h3>
