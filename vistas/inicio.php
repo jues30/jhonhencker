@@ -336,9 +336,25 @@
   </section><!-- End Services Section -->
 
   <!-- ======= Portfolio Section ======= -->
-  <section id="portfolio" class="portfolio">
+  <section id="portfolio" class="services">
     <div class="container">
-     <?php require_once 'libros.html'; ?>
+        <div class="section-title">
+        <h2><?php echo InterfazGeneral::AUTOR; ?></h2>
+        <p>Libros</p>
+      </div>
+     <div class="row">
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="icon-box">
+            <p><a href="libros/los_jardines_rojos.pdf" target="_blank"><img src="assets/img/Libro1.png" alt="Los Jardines Rojos y otros Nocturnos"></a></p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="icon-box">
+            <p><a href="#"><img src="assets/img/Libro2.png" alt="Colección"></a></p>
+          </div>
+        </div>
+      </div>
     </div>
   </section><!-- End Portfolio Section -->
 
