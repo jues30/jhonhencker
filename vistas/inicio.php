@@ -265,13 +265,13 @@
           <h3><?php echo InterfazGeneral::AUTOR; ?></h3>
           <p class="fst-italic">
             Con la publicación de La Bruja, Jhon Hencker inició el camino por el mundo de la literatura tenebrosa.
-            Hencker en verdad no tuvo una vida trágica como la gran mayoría de los escritores que incursionaron en el
-            género de terror. Su familia fue de clase media. Durante su adultez conoció varios paises que lo inspiraron.
-            Siempre fiel al estilo de sus maestros, intentó siempre dar el giro a sus historias en el último momento, buscando
-            el anhelado impacto en los lectores. 
+            Hencker en verdad no tuvo una vida trágica como la gran mayoría de sus maestros. Su familia fue de clase media. 
+            Durante su adultez conoció varios paises que lo inspiraron en varios de sus cuentos. 
+            Siempre fiel al estilo de sus escritores favoritos, intentó siempre dar el giro a sus historias en el último momento, 
+            buscando el anhelado impacto en los lectores. 
           </p>
           <p class="fst-italic">
-            Decidió publicar a las 37 años, aunque la gran mayoría de sus escritos los realizó entre los quince y los veincicinco años.
+            Decidió publicar a la edad de 37 años, aunque la gran mayoría de sus escritos los realizó entre los quince y los veincicinco años.
             Nunca buscó la fama por su literatura, pues su profesión como ingeniero poco tenía que ver con su pasión
             (aunque logró combinar la inteligencia artificial y la poesía en sus "Poemas sin Autor"). 
           </p>
