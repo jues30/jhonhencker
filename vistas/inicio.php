@@ -50,12 +50,7 @@
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-          <h4><a href="el_espejo.php#body">El Espejo</a></h4>
-					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="la_desaparicion_de_amanda.php#body">La Desaparición de Amanda</a></h4>
+                                        <h4><a href="el_espejo.php#body">El Espejo</a></h4>
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
@@ -84,17 +79,7 @@
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="la_armadura.php#body">La Armadura</a></h4>
-					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="esquizofrenia.php#body">Esquizofrenia</a></h4>
-					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
-				<p></p>
-				</div>
-                                <div class="resume-item pb-0">
+			        <div class="resume-item pb-0">
 					<h4><a href="el_demonio_de_la_montana.php#body">El Demonio de la Montaña</a></h4>
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
@@ -120,38 +105,53 @@
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="en_boca_cerrada.php#body">En Boca Cerrada...</a></h4>
+					<h4><a href="#">En Boca Cerrada...</a></h4>
 					<p><em>Saga: Las Tres Sombras.</em></p>
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
-                                        <h4><a href="libros/cada_minuto_a_su_lado.pdf" target="_blank">Cada Minuto a su Lado</a></h4>
+                                        <h4><a href="cada_minuto_a_su_lado.php#body">Cada Minuto a su Lado</a></h4>
 					<p><em>Libro: Colección.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="el_ladron.php#body">El Ladrón</a></h4>
+					<h4><a href="#">El Ladrón</a></h4>
+					<p><em>Libro: Colección.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="#">La Desaparición de Amanda</a></h4>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
+				<p></p>
+				</div>
+				<div class="resume-item pb-0">
+					<h4><a href="#">La Armadura</a></h4>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
+				<p></p>
+				</div>
+				<div class="resume-item pb-0">
+					<h4><a href="#">Esquizofrenia</a></h4>
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
 					<h4><a href="#">La Dama de las Ratas</a></h4>
-					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
+					<p><em>Libro: Colección.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="#">La Sepultura</a></h4>
-					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
+					<p><em>Libro: Colección.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="#">Crónicas de un Sinistro Secuestro</a></h4>
-					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
+					<p><em>Libro: Colección.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="#">Un Cuerpo en la Selva</a></h4>
-					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
+					<p><em>Libro: Colección.</em></p>
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">

@@ -49,6 +49,7 @@ class InterfazGeneral {
     const JOLLIN = 23;
     const EN_BOCA_CERRADA = 24;
     const LA_PESADILLA = 25;
+    const CADA_MINUTO_A_SU_LADO = 26;
     const EL_LADRON = 27;
     const LAS_COMPANERAS = 28;
     const SIGUE_ADELANTE = 29;
