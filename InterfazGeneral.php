@@ -66,6 +66,7 @@ class InterfazGeneral {
     const UNA_TRISTE_AMISTAD = 40;
     const UN_MAGICO_CUADRO = 41;
     const LOS_POEMAS_SIN_AUTOR = 42;
+    const ADIOS_MAMA = 43;
     
     
 }

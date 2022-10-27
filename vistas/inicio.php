@@ -68,6 +68,11 @@
 					<h4><a href="la_pesadilla.php#body">La Pesadilla</a></h4>
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
+                                </div>
+                                <div class="resume-item pb-0">
+					<h4><a href="adios_mama.php#body">Adiós Mamá</a></h4>
+					<p><em>Libro: Colección.</em></p>
+				<p></p>
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="los_jardines_rojos.php#body">Los Jardines Rojos</a></h4>
