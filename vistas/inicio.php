@@ -264,7 +264,7 @@
 
       <div class="row">
         <div class="col-lg-4" data-aos="fade-right">
-          <img src="assets/img/autor.png" class="img-fluid" alt="Autor">
+          <img src="assets/img/autor.jpg" class="img-fluid" alt="Autor">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left" align="justify">
           <h3><?php echo InterfazGeneral::AUTOR; ?></h3>
