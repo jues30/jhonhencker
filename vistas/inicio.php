@@ -6,7 +6,7 @@
 <body>
   <!-- ======= Header ======= -->
   <header id="header">
-    <div class="container">
+    <div class="container" align="justify">
       <h1><a href="index.php"><?php echo InterfazGeneral::AUTOR; ?></h1>
       <h2><p>Cuando el monje budista volvió al hoyo esperaba ver la momia de su maestro, sentada en flor de loto y con una expresión de paz. Al abrir la puerta vio en la momia una expresión de horror y las uñas destruidas por arañar las paredes.</p>
 	  <br><p><span>Terror en Frases Cortas</p>
@@ -264,25 +264,30 @@
 
       <div class="row">
         <div class="col-lg-4" data-aos="fade-right">
-          <img src="assets/img/estatua.jpg" class="img-fluid" alt="Biblioteca de Alejandría">
+          <img src="assets/img/autor.png" class="img-fluid" alt="Autor">
         </div>
-        <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+        <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left" align="justify">
           <h3><?php echo InterfazGeneral::AUTOR; ?></h3>
           <p class="fst-italic">
-            Con la publicación de La Bruja, Jhon Hencker inició el camino por el mundo de la literatura tenebrosa.
-            Hencker en verdad no tuvo una vida trágica como la gran mayoría de sus maestros. Su familia fue de clase media. 
-            Durante su adultez conoció varios paises que lo inspiraron en varios de sus cuentos. 
-            Siempre fiel al estilo de sus escritores favoritos, intentó siempre dar el giro a sus historias en el último momento, 
+              <br>
+            Con la publicación de "La Bruja", Jhon E. Hencker inició el camino por el mundo de la literatura tenebrosa.
+            Hencker en verdad no tuvo una vida trágica como la gran mayoría de sus maestros. Su familia fue de clase media y tuvo buena educación. 
+            Durante su adultez conoció paises que lo inspiraron en varios de sus cuentos. 
+            Siempre fiel al estilo de sus escritores favoritos, como Allan Poe, Bierce o Baudelarie, intentó siempre dar el giro a sus historias en el último momento, 
             buscando el anhelado impacto en los lectores. 
           </p>
           <p class="fst-italic">
-            Decidió publicar a la edad de 37 años, aunque la gran mayoría de sus escritos los realizó entre los quince y los veincicinco años.
+            Decidió publicar a la edad de 37 años, aunque la gran mayoría de sus escritos los realizó entre los 15 y los 25 años.
             Nunca buscó la fama por su literatura, pues su profesión como ingeniero poco tenía que ver con su pasión
-            (aunque logró combinar la inteligencia artificial y la poesía en sus "Poemas sin Autor"). 
+            (aunque logró combinar la inteligencia artificial y la poesía en sus "Poemas sin Autor", del libro Colección). 
           </p>
           <p class="fst-italic">
-              Finalmente, pidió siempre a sus lectores: "Leer sólo uno por día", esperando lograr el choque
-              psicológico que quiso siempre imponer.
+              Su obra completa consite en dos libros de cuentos cortos y poemas: Los Jardines Rojos y otros nocturnos, y Colección. Y una saga
+              de literatura fántastica llamada "Nallard", que se constituye de 5 libros.
+          </p>
+          <p class="fst-italic">
+              Finalmente, pidió siempre a sus lectores: "Leer sólo un cuento por día", esperando lograr el choque
+              psicológico que quiso siempre imponer en su oscura obra.
           </p>
         </div>
       </div>
@@ -299,7 +304,7 @@
         <h2><?php echo InterfazGeneral::AUTOR; ?></h2>
         <p>Nallhard</p>
       </div>
-        <p>
+        <p align="justify">
             El proyecto Nalhard fue una saga de varios libros mitológicos que inicialmente el autor no pensaba publicar.
             Fue un proyecto de años que Hencker creó para sí mismo, pero que finalmente decidió exponer al público.
             El Nallhard es un mundo motólogico que recopila varias historias fantásticas, con personajes definidos y 
