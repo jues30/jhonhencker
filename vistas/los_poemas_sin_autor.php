@@ -18,10 +18,10 @@
                 <div class="row" align="justify">
                      <h2>LOS POEMAS SIN AUTOR</h2>
                     <p>
-                    Los Poemas Sin Autor son una obra corta inspirada en una red neuronal recurrente (inteligencia artificial) creada por el autor. Para este proyecto, Hencker quiso unir sus dos pasiones: La ingenieria y la escritura.
+                    Los Poemas Sin Autor son una obra corta inspirada en los resultados de una red neuronal recurrente (inteligencia artificial) creada por el autor. Para este proyecto, Hencker quiso unir sus dos pasiones: La ingenieria y la escritura.
                     </p>
                     <p>
-                    Aunque la red neuronal sólo sirvio como inspiración a estos poemas, el autor decidió llamarlos Los Poemas Sin Autor aluciendo que, aunque él creo la red neuronal e hizo los poemas, la obra pertenece a la inspiración; pero para este caso los poemas no tienen dueño alguno.
+                    Aunque la red neuronal sólo sirvio como inspiración a estos poemas, el autor decidió llamarlos "Los Poemas Sin Autor" aluciendo que, aunque él creo la red neuronal e hizo los poemas, la obra pertenece a la inspiración; pero para este caso los poemas no tienen dueño alguno.
                     </p>
                     <p>
                     A continuación están algunos de Los Poemas Sin Autor (todos los poemas se encuentran en el libro Coleción):
@@ -40,12 +40,12 @@
         <br>Solos, exhalan un olor a fracaso
         <br>con su mirada de azur sobre mis caderas,
         <br>vacíos de pensamientos en sus ojos bellos
-        <br>mezclados con metal a causa de sus fracasos.
+        <br>mezclados con metal a causa de sus penas.
         <br>Camino con cabeza bamboleante
         <br>como si paseara en una góndola,
         <br>recibiendo la atención ardorosa
         <br>de almas vacías de esperanzas.
-        <br>Y, verduga, llena de estíos y otoños,
+        <br>Y, asesina, llena de estíos y otoños,
         <br>aplasto con amabilidad fingida deseos efímeros
         <br>rompiendo orgullos de hombres pobres y ricos
         <br>y causando lágrimas en infinitos números.
@@ -58,25 +58,32 @@
         <br>pero rebosantes en los cuerpos de los mortales".
         </p>
         <br></br>
-        <h3>GUERRERA</h3>
+        <h3>EL PODER DE LA MENTE</h3>
         <p>
-        Bendito seas, mi Dios, que de ella te apiadas,
-        <br>Mientras bella, se abre paso en la vida, cual alud en bajada,
-        <br>y la pasión de su alma se resiste al amo tirano
-        <br>al tiempo que se despierta con emociones extrañas.
-        <br>Doblada por el peso de los años, ella no se rinde,
-        <br>perdiendo la mirada en los muelles y en ríos crecientes,
-        <br>saturando los sentidos de magia al arrullo del agua,
-        <br>vive apoyada en lo positivo, como la cúpula de una iglesia.
-        <br>A veces tiene voz temblorosa, cuando el alma se le encoge,
-        <br>pero bajo el latido de las capitales, se irgue triunfante,
-        <br>canta fuerte con su corazón puro en todos los rincones,
-        <br>y casi de inmediato se disipa la soledad de su alma.
-        <br>Amadísima por sí misma, ¡oh Noche!, ¡oh Corazón!,
-        <br>¡oh Vino! Todos tres a sus pies se agitan de pasión.
-        <br>Mientras sobre la almohada, a veces frustrada,
-        <br>toma fuerza entre un sufragio de colores,
-        <br>gatos furtivos, iras terribles y visiones de ilusión.
+        De vez en cuando se debe encadenar a la mente,
+        <br>pues puede volverse un enemigo terrible,
+        <br>igual que la Muerte que suplica por una vela
+        <br>o un dolor amplio como onda sublime.
+        <br>
+        <br>Los pensamientos se vuelven afilados
+        <br>como una espada que no se ablanda,
+        <br>y asfixia el débil cuerpo con espasmos
+        <br>como ahogado en su sangre coagulada.
+        <br>
+        <br>Contempla el negro futuro como espejo
+        <br>de frutos verdes, podridos y amargos,
+        <br>distorsionando la realidad de la vida
+        <br>con una ansiedad de ojos errados.
+        <br>
+        <br>¡No dejes que la mente se convierta
+        <br>en una bestia repleta de miedos!
+        <br>Respira hondo y empotra la cabeza
+        <br>entre unos hombros firmes y pétreos.
+        <br>
+        <br>¡No pienses mil veces en dar el paso!
+        <br>Apaga el Diablo con potente decisión.
+        <br>Que la mente retire los dedos lánguidos
+        <br>que llenan las metas de confusión.
         </p>        
         <br></br>
         <h3>INALCANZABLE</h3>
