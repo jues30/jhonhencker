@@ -242,11 +242,21 @@
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
-				<div class="resume-item pb-0">
+                                <div class="resume-item pb-0">
+                                        <h4><a href="la_dama_arrogante.php#body">La Dama Arrogante</a></h4>
+					<p><em>Estilo: Verso.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="el_poder_de_la_mente.php#body">El Poder de la Mente</a></h4>
+					<p><em>Estilo: Verso.</em></p>
+				<p></p>
+				</div>
+				<!-- <div class="resume-item pb-0">
                                     <h4><a href="los_poemas_sin_autor.php#body">Los Poemas Sin Autor</a></h4>
 					<p><em>Libro: Colección.</em></p>
 				<p></p>
-				</div>
+				</div>-->
       </div>
 
     </div>

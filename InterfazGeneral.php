@@ -67,6 +67,8 @@ class InterfazGeneral {
     const UN_MAGICO_CUADRO = 41;
     const LOS_POEMAS_SIN_AUTOR = 42;
     const ADIOS_MAMA = 43;
+    const LA_DAMA_ARROGANTE = 44;
+    const EL_PODER_DE_LA_MENTE = 45;
     
     
 }
