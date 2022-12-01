@@ -289,7 +289,7 @@
           <p class="fst-italic">
             Decidió publicar a la edad de 37 años, aunque la gran mayoría de sus escritos los realizó entre los 15 y los 25 años.
             Nunca buscó la fama por su literatura, pues su profesión como ingeniero poco tenía que ver con su pasión,
-            aunque logró combinar la poesía y una red neuronal creada por él mismo (inteligencia artificial) en sus "Poemas sin Autor", los cuales nunca publicó).
+            aunque logró combinar la poesía y una red neuronal creada por él mismo (inteligencia artificial) en sus "Poemas sin Autor"; obra que nunca publicó.
           </p>
           <p class="fst-italic">
               Su obra completa consite en dos libros de cuentos cortos y poemas: Los Jardines Rojos y otros nocturnos, y Colección. Y una saga
@@ -323,31 +323,31 @@
       <div class="row">
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
           <div class="icon-box">
-            <p><a href="libros/nallhard.pdf" target="_blank"><img src="assets/img/Libro3.png" alt="Nallhard"></a></p>
+            <p><a href="libros/nallhard.pdf" target="_blank"><img src="assets/img/nallhard.png" alt="Nallhard"></a></p>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
           <div class="icon-box">
-            <p><a href="libros/el_imperio_de_los_dos_soles.pdf" target="_blank"><img src="assets/img/Libro4.png" alt="El Imperio de los Dos Soles"></a></p>
+            <p><a href="libros/el_imperio_de_los_dos_soles.pdf" target="_blank"><img src="assets/img/el_imperio_de_los_dos_soles.png" alt="El Imperio de los Dos Soles"></a></p>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
           <div class="icon-box">
-            <p><a href="libros/la_edad_de_las_estrellas.pdf" target="_blank"><img src="assets/img/Libro5.png" alt="La Edad de las Estrellas I"></a></p>
+            <p><a href="libros/la_edad_de_las_estrellas.pdf" target="_blank"><img src="assets/img/la_edad_de_las_estrellas_1.png" alt="La Edad de las Estrellas I"></a></p>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
           <div class="icon-box">
-            <p><a href="libros/la_edad_de_las_estrellas_2.pdf" target="_blank"><img src="assets/img/Libro6.png" alt="La Edad de las Estrellas II"></a></p>
+            <p><a href="libros/la_edad_de_las_estrellas_2.pdf" target="_blank"><img src="assets/img/la_edad_de_las_estrellas_2.png" alt="La Edad de las Estrellas II"></a></p>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
           <div class="icon-box">
-            <p><a href="#"><img src="assets/img/Libro7.png" alt="El Rey de los Cuervos"></a></p>
+            <p><a href="#"><img src="assets/img/el_rey_de_los_cuervos.png" alt="El Rey de los Cuervos"></a></p>
           </div>
         </div>
       </div>
@@ -365,13 +365,13 @@
      <div class="row">
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
           <div class="icon-box">
-            <p><a href="libros/los_jardines_rojos.pdf" target="_blank"><img src="assets/img/Libro1.png" alt="Los Jardines Rojos y otros Nocturnos"></a></p>
+            <p><a href="libros/los_jardines_rojos.pdf" target="_blank"><img src="assets/img/los_jardines_rojos.png" alt="Los Jardines Rojos y otros Nocturnos"></a></p>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
           <div class="icon-box">
-            <p><a href="#"><img src="assets/img/Libro2.png" alt="Colección"></a></p>
+            <p><a href="#"><img src="assets/img/coleccion.png" alt="Colección"></a></p>
           </div>
         </div>
       </div>
