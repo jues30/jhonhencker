@@ -30,7 +30,41 @@ class DAOObra{
        $this->obj = new Obra();
     }
     
-   function obtenerVistos($id_obra){
+    /**
+     * 
+     * @param type $id_obra
+     * @return type
+     */
+    function obtenerObra($id_obra){
+        $bd = Db::getInstance();
+        settype($id_obra, 'integer');
+        $Sql = "SELECT * FROM ".$this->obj->_tabla." WHERE id ='".$bd->limpiar($id_obra)."' LIMIT 1";
+        $result = $bd->ejecutar($Sql);
+        while($row = mysqli_fetch_assoc($result)){
+            $Localidad = $this->objetoObra($row);
+        }
+        mysqli_free_result($result);
+        return $Localidad;
+    }
+    
+    /**
+     * Crea un objeto Obra a partir de un array
+     * @param type $row
+     * @return \Horario
+     */
+    public function objetoObra($row){
+        $Obra = new Obra();
+        $Obra->ingresar_id($row['id']);
+        $Obra->ingresar_nombre_obra($row['nombre_obra']);
+        $Obra->ingresar_vistos($row['vistos']);
+        $Obra->ingresar_likes($row['likes']);
+        $Obra->ingresar_puntuacion($row['puntuacion']);
+        $Obra->ingresar_tipo($row['tipo']);
+        $Obra->ingresar_id_superior($row['id_superior']);
+        return $Obra;
+    }
+    
+    function obtenerVistos($id_obra){
         $bd = Db::getInstance();
         $vistos = 0;
         $Sql = "SELECT vistos

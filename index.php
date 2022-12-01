@@ -53,6 +53,7 @@ class controladorIndex {
 		setcookie("cookie_acceso", md5(rand(1, 500000).fechahorahoy()), time() + 30*24*60*60);
 		$DAOAcceso = new DAOAcceso();
 		$DAOAcceso->crearAcceso();
+                $titulo = InterfazGeneral::AUTOR;
 		
 		require_once 'vistas/inicio.php';
     }

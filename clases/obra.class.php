@@ -40,7 +40,7 @@ class Obra{
         return $var;
     }
     public function ingresar_nombre_obra($var){
-        $this->nombre_obra = strip_tags(trim(mayusculas($var)));
+        $this->nombre_obra = strip_tags(trim($var));
     }
         
     public function obtener_vistos(){

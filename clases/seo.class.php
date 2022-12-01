@@ -5,7 +5,7 @@ class Seo{
  var $keywords;
  public function crear_seo_index() {
   $this->titulo = strip_tags(InterfazGeneral::AUTOR);
-  $this->meta = strip_tags("Escritor de suspenso y terror Jhon Hencker");
+  $this->meta = strip_tags("Escritor de suspenso y terror Jhon Hencker. Literatura tenebrosa.");
   $this->keywords = strip_tags("literatura, terror, suspenso, miedo, jhon, hencker, tenebroso, arte, escritor, escritura");
  }
  function titulo_index() {

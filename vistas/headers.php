@@ -2,9 +2,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title><?php echo InterfazGeneral::AUTOR;  ?></title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title><?php echo $titulo;  ?></title>
+  <meta content="<?php echo $Seo->meta.' Escrito '.$nombre; ?>" name="description">
+  <meta content="<?php echo $Seo->keywords.', '.$titulo; ?>" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -24,4 +24,21 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   <script src="js/like.js" type="text/javascript"></script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Literatura de terror",
+      "name": "<?php echo $titulo; ?>",
+      "image": [
+      "http://localhost/jhonhencker/assets/img/autor.jpg"
+      ],
+      "author": {
+        "@type": "Person",
+        "name": "<?php echo InterfazGeneral::AUTOR; ?>"
+      },
+      "datePublished": "2023-01-01",
+      "description": "<?php echo $Seo->meta.' Escrito '.$nombre; ?>"
+      
+    }
+    </script>
 </head>

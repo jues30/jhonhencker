@@ -56,8 +56,11 @@ class controladorIndex {
         $DAOAcceso = new DAOAcceso();
         $DAOObra = new DAOObra();
         $DAOAcceso->crearAcceso($id_obra);
+        $Obra = $DAOObra->obtenerObra($id_obra);
         $vistos = $DAOObra->obtenerVistos($id_obra);
-        $likes = $DAOObra->obtenerLikes($id_obra);
+        $likes = $Obra->obtener_likes();
+        $nombre = $Obra->obtener_nombre_obra();
+        $titulo = $nombre.' - '.InterfazGeneral::AUTOR;
 
         require_once 'vistas/la_bienvenida.php';
     }
