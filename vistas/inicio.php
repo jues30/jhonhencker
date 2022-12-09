@@ -8,8 +8,8 @@
   <header id="header">
     <div class="container" align="justify">
       <h1><a href="index.php"><?php echo InterfazGeneral::AUTOR; ?></h1>
-      <h2><p>Cuando el monje budista volvió al hoyo esperaba ver la momia de su maestro, sentada en flor de loto y con una expresión de paz. Al abrir la puerta vio en la momia una expresión de horror y las uñas destruidas por arañar las paredes.</p>
-	  <br><p><span>Terror en Frases Cortas</p>
+      <h2><p><?php echo $Frase->obtener_frase(); ?></p>
+          <br><p><span><?php echo $Frase->obtener_observaciones(); ?></span></p>
 	  </h2>
 
       <nav id="navbar" class="navbar">

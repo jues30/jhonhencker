@@ -41,10 +41,10 @@ class DAOObra{
         $Sql = "SELECT * FROM ".$this->obj->_tabla." WHERE id ='".$bd->limpiar($id_obra)."' LIMIT 1";
         $result = $bd->ejecutar($Sql);
         while($row = mysqli_fetch_assoc($result)){
-            $Localidad = $this->objetoObra($row);
+            $Obra = $this->objetoObra($row);
         }
         mysqli_free_result($result);
-        return $Localidad;
+        return $Obra;
     }
     
     /**
