@@ -212,6 +212,11 @@
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="el_marcar_del_tiempo.php#body">El Marcar del Tiempo</a></h4>
+					<p><em>Estilo: Verso.</em></p>
+				<p></p>
+				</div>
 				<div class="resume-item pb-0">
                                     <h4><a href="la_bienvenida.php#body">La Bienvenida</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
