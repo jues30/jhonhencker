@@ -59,6 +59,18 @@ class DAOFrase{
         $Frase->ingresar_observaciones($row['observacion']);
          return $Frase;
     }
+    
+    function obtenerCantidadFrases(){
+        $bd = Db::getInstance();
+        $cantidad = 0;
+        $Sql = "SELECT COUNT(id) AS cantidad FROM ".$this->obj->_tabla." LIMIT 1";
+        $result = $bd->ejecutar($Sql);
+        while($row = mysqli_fetch_assoc($result)){
+            $cantidad = $row['cantidad'];
+        }
+        mysqli_free_result($result);
+        return $cantidad;
+    }
 }
 
 class DAOFraseException extends Exception{

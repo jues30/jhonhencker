@@ -140,6 +140,11 @@
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
+					<h4><a href="#">Eidhard</a></h4>
+					<p><em>Libro: Colección.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
 					<h4><a href="#">La Dama de las Ratas</a></h4>
 					<p><em>Libro: Colección.</em></p>
 				<p></p>

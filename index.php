@@ -45,21 +45,20 @@ class controladorIndex {
         } catch (controladorIndexException $e) {
             throw new controladorIndexException('Problemas con la instancia: ',  $e->getMessage(), ".\n");
         }
-		//setcookie("cookie_acceso", "", time() - 3600);
-		session_start();
-		if(!isset($_SESSION["acceso"])) {
-			$_SESSION["acceso"] = md5(rand(1, 500000).fechahorahoy());
-		}
-		setcookie("cookie_acceso", md5(rand(1, 500000).fechahorahoy()), time() + 30*24*60*60);
-		$DAOAcceso = new DAOAcceso();
-		$DAOFrase = new DAOFrase();
-		$DAOAcceso->crearAcceso();
-                $id_frase = rand(1, 26);
-                $Frase = $DAOFrase->obtenerFrase($id_frase);
-                
-                $titulo = InterfazGeneral::AUTOR;
-		
-		require_once 'vistas/inicio.php';
+        session_start();
+        if(!isset($_SESSION["acceso"])) {
+                $_SESSION["acceso"] = md5(rand(1, 500000).fechahorahoy());
+        }
+        setcookie("cookie_acceso", md5(rand(1, 500000).fechahorahoy()), time() + 30*24*60*60);
+        $DAOAcceso = new DAOAcceso();
+        $DAOFrase = new DAOFrase();
+        $DAOAcceso->crearAcceso();
+        $cantidad_frases = $DAOFrase->obtenerCantidadFrases();
+        $id_frase = rand(1, $cantidad_frases);
+        $Frase = $DAOFrase->obtenerFrase($id_frase);
+        $titulo = InterfazGeneral::AUTOR;
+
+        require_once 'vistas/inicio.php';
     }
 }
 
