@@ -7,7 +7,7 @@
   <!-- ======= Header ======= -->
   <header id="header">
     <div class="container" align="justify">
-      <h1><a href="index.php"><?php echo InterfazGeneral::AUTOR; ?></h1>
+        <h1><a href="index.php"><?php echo InterfazGeneral::AUTOR; ?></a></h1>
       <h2><p><?php echo $Frase->obtener_frase(); ?></p>
           <br><p><span><?php echo $Frase->obtener_observaciones(); ?></span></p>
 	  </h2>
@@ -284,31 +284,35 @@
 
       <div class="row">
         <div class="col-lg-4" data-aos="fade-right">
-          <img src="assets/img/autor.jpg" class="img-fluid" alt="Autor">
+            <br><br><br>
+          <img src="assets/img/jhon_hencker.jpg" class="img-fluid" alt="<?php echo InterfazGeneral::AUTOR; ?>">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left" align="justify">
           <h3><?php echo InterfazGeneral::AUTOR; ?></h3>
-          <p class="fst-italic">
-              <br>
-            Con la publicación de "La Bruja", Jhon E. Hencker inició el camino por el mundo de la literatura tenebrosa.
-            Hencker en verdad no tuvo una vida trágica como la gran mayoría de los artistas de su genero. Su familia fue de clase media y tuvo buena educación. 
-            Durante su adultez conoció paises que lo inspiraron en varios de sus cuentos y poemas. 
-            Siempre fiel al estilo de sus escritores favoritos, como Allan Poe, Bierce o Baudelarie, intentó siempre dar el giro a sus historias en el último momento, 
-            buscando el anhelado impacto en los lectores. 
-          </p>
-          <p class="fst-italic">
-            Decidió publicar a la edad de 37 años, aunque la gran mayoría de sus escritos los realizó entre los 15 y los 25 años.
-            Nunca buscó la fama por su literatura, pues su profesión como ingeniero poco tenía que ver con su pasión,
-            aunque logró combinar la poesía y una red neuronal creada por él mismo (inteligencia artificial) en sus "Poemas sin Autor"; obra que nunca publicó.
-          </p>
-          <p class="fst-italic">
-              Su obra completa consite en dos libros de cuentos cortos y poemas: Los Jardines Rojos y otros nocturnos, y Colección. Y una saga
-              de literatura fántastica llamada "Nallard", que se compone de 5 libros.
-          </p>
-          <p class="fst-italic">
-              Finalmente, pidió siempre a sus lectores: "Leer sólo un cuento por día", esperando lograr el choque
-              psicológico que quiso siempre imponer en su oscura obra.
-          </p>
+            <p class="fst-italic">
+                <br>
+              Con la publicación de "La Bruja", Jhon E. Hencker inició el camino por el mundo de la literatura tenebrosa.
+              Hencker en verdad no tuvo una vida trágica como la gran mayoría de los artistas de su género. Su familia fue de clase media y tuvo buena educación. 
+              Durante su adultez conoció paises que lo inspiraron en varios de sus cuentos y poemas. 
+              Siempre fiel al estilo de sus escritores favoritos, como Bierce, Allan Poe o Baudelarie, intentó siempre dar el giro a sus historias en el último momento, 
+              buscando el anhelado impacto en los lectores. 
+            </p>
+            <p class="fst-italic">
+              Decidió publicar a la edad de 37 años, aunque la gran mayoría de sus escritos los realizó entre los 15 y los 25 años.
+              Nunca buscó la fama por su literatura, pues su profesión como ingeniero poco tenía que ver con su pasión,
+              aunque logró combinar la poesía y una red neuronal creada por él mismo (inteligencia artificial) en sus "Poemas sin Autor"; obra que nunca publicó.
+            </p>
+            </div>
+            <div class="row" align="justify">
+            <p class="fst-italic">
+                <br>
+                Su obra completa consite en dos libros de cuentos cortos y poemas: Los Jardines Rojos y otros nocturnos, y Colección. Y una saga
+                de literatura fántastica llamada "Nallard", que se compone de 5 libros.
+            </p>
+            <p class="fst-italic">
+                Finalmente, pidió siempre a sus lectores: "Leer sólo un cuento por día", esperando lograr el choque
+                psicológico que quiso siempre imponer en su oscura obra.
+            </p>
         </div>
       </div>
 
