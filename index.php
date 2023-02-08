@@ -8,6 +8,7 @@ header('Content-Type: text/html; charset=UTF-8');
 require_once 'clases/funcionesGeneralesBD.php';
 require_once 'funciones/funcionesBasicas.php';
 require_once 'funciones/convertir_fecha.php';
+require_once 'funciones/geoiploc.php';
 require_once 'funciones/recargarLibrerias.php';
 require_once 'InterfazGeneral.php';
 
@@ -39,6 +40,8 @@ class controladorIndex {
     }
     
     public function inicializar_index() {
+        $ip = $_SERVER["REMOTE_ADDR"];
+        //$ip = '200.122.253.129';
         try  {
             $Seo = objeto::factoria("Seo");
             $Seo->crear_seo_index();
@@ -57,6 +60,12 @@ class controladorIndex {
         $id_frase = rand(1, $cantidad_frases);
         $Frase = $DAOFrase->obtenerFrase($id_frase);
         $titulo = InterfazGeneral::AUTOR;
+        $pais = getCountryFromIP($ip, 'code');
+        if($pais == "CO") {
+            $imagen_autor = "assets/img/jhon_hencker2.jpg";
+        } else {
+            $imagen_autor = "assets/img/jhon_hencker.jpg";
+        }
 
         require_once 'vistas/inicio.php';
     }
