@@ -71,6 +71,11 @@ class InterfazGeneral {
     const EL_PODER_DE_LA_MENTE = 45;
     const EL_MARCAR_DEL_TIEMPO = 46;
     const EIDHARD = 47;
+    const EL_MONSTRUO_DEL_POZO = 48;
+    const EL_GRITO_DE_LOS_BLASFEMOS = 49;
+    const LA_LLUVIA = 50;
+    const EL_CULTO = 51;
+    const DESPRECIO = 52;
     
     
 }

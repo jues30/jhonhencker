@@ -40,7 +40,6 @@
 			<h2>Obras</h2>
 			<p>Cuentos y Poemas</p>
 		</div>
-
 		<div class="row">
 			<div class="col-lg-6">
 				<h3 class="resume-title">Cuentos</h3>
@@ -134,6 +133,11 @@
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="la_dama_de_las_ratas.php#body">La Dama de las Ratas</a></h4>
+					<p><em>Libro: Colección.</em></p>
+				<p></p>
+				</div>
 				<div class="resume-item pb-0">
                                         <h4><a href="esquizofrenia.php#body">Esquizofrenia</a></h4>
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
@@ -192,19 +196,39 @@
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
-				<div class="resume-item pb-0">
-                                    <h4><a href="la_bienvenida.php#body">La Bienvenida</a></h4>
-					<p><em>Estilo: Prosa.</em></p>
-				<p></p>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="el_monstruo_del_pozo.php#body">El Monstruo del Pozo</a></h4>
+                                        <p><em>Estilo: Verso.</em></p>
+                                <p></p>
+                                </div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="el_grito_de_los_blasfemos.php#body">El Grito de los Blasfemos</a></h4>
+					<p><em>Estilo: Verso.</em></p>
+                                <p></p>
 				</div>
 				<div class="resume-item pb-0">
                                         <h4><a href="la_piedad_negra.php#body">La Piedad Negra</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
 				<p></p>
 				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="la_lluvia.php#body">La Lluvia</a></h4>
+					<p><em>Estilo: Verso.</em></p>
+				<p></p>
+				</div>
 				<div class="resume-item pb-0">
                                         <h4><a href="el_castillo.php#body">El Castillo</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="el_culto.php#body">El Culto</a></h4>
+					<p><em>Estilo: Verso.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="desprecio.php#body">Desprecio</a></h4>
+					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
