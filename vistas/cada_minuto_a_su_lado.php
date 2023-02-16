@@ -27,6 +27,7 @@
                 </div> 
                 </div>
         </div>
+        <br><a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_ladron.php#body" title="El Ladrón">Leer El Ladrón</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

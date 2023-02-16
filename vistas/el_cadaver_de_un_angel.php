@@ -16,50 +16,43 @@
                 <br>Bordeada de frondosos robles,
                 <br>Cuando de repente me topé
                 <br>Con una imagen repleta de horrores:
-                </p>
-                <p>Un Ángel yacía inerte
+                <br>
+                <br>Un Ángel yacía inerte
                 <br>En una zanja poco profunda.
                 <br>Desprendía un hedor a sangre seca
                 <br>Y su cabello de oro flotaba en una charca inmunda.
-                </p>
-                <p>
-                Desplumado por completo
+                <br>
+                <br>Desplumado por completo
                 <br>A punta de mordiscos
                 <br>Provenientes de perros que hundían en la lívida carne
                 <br>Sus sarnosos y feroces hocicos.
-                </p>
-                <p>
-                Las moscas rondaban con violencia
+                <br>
+                <br>Las moscas rondaban con violencia
                 <br>El cuerpo necroso y acabado,
                 <br>Y los gusanos formaban colonias
                 <br>En su vientre ya desfondado.
-                </p>
-                <p>
-                ¡¿Quién sería capaz de tal atrocidad?!
+                <br>
+                <br>¡¿Quién sería capaz de tal atrocidad?!
                 <br>Me pregunté con extrañeza;
                 <br>Pero a mi alrededor sólo había robles y araucarias
                 <br>Que se mostraban frondosas y esbeltas.
-                </p>
-                <p>
-                El cielo y el infierno ya no son los mismos,
+                <br>
+                <br>El cielo y el infierno ya no son los mismos,
                 <br>Los hombres dejaron los dioses,
                 <br>Ya la fe ha desaparecido
                 <br>Y surgen las demostraciones.
-                </p>
-                <p>
-                Ya cadavérico el rostro
+                <br>
+                <br>Ya cadavérico el rostro
                 <br>Se mostraba lúbrico ante el día,
                 <br>Y sus ojos ya eran cuencas
                 <br>Directas a sus delicias.
-                </p>
-                <p>
-                ¡¿Quién sería capaz de tal atrocidad?!
+                <br>
+                <br>¡¿Quién sería capaz de tal atrocidad?!
                 <br>Mas ante mí estaba la respuesta,
                 <br>Y me agazapé frente al cuerpo a llorar,
                 <br>Pues sabía quién era el asesino de la belleza.
-                </p>
-                <p>
-                Los hombres ya no creen
+                <br>
+                <br>Los hombres ya no creen
                 <br>Lo que se les impone.
                 <br>¡¿Quién sería capaz de tal atrocidad?!
                 <br>Quien a la existencia de los Ángeles se opone.
@@ -67,6 +60,7 @@
             </div>
         </div>
 	<br></br>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_marcar_del_tiempo.php#body" title="El Marcar del Tiempo">Leer El Marcar del Tiempo</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

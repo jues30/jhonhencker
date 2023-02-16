@@ -70,6 +70,7 @@ class InterfazGeneral {
     const LA_DAMA_ARROGANTE = 44;
     const EL_PODER_DE_LA_MENTE = 45;
     const EL_MARCAR_DEL_TIEMPO = 46;
+    const EIDHARD = 47;
     
     
 }

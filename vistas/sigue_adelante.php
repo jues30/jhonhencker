@@ -17,27 +17,23 @@
                 <br>Como se te sonrojan las mejillas,
                 <br>Con tus estados repentinos y alterados,
                 <br>Y como suspiras cuando digo: «Te amo».
-                </p>
-                <p>
+                </br>
                 <br>Me gusta tu cuerpo no tan esbelto
                 <br>Pero a mis ojos perfecto.
                 <br>Cuando te sonríes con sinceridad
                 <br>Y mis ojos encuentran tus ojos
                 <br>Que son grandes y hermosos.
-                </p>
-                <p>
+                <br>
                 <br>Me gusta cuando hablas, 
                 <br>Sean incoherencias o grandes máximas,
                 <br>Cuando me regañas o felicitas,
                 <br>Cuando me cuidas y acaricias.
-                </p>
-                <p>
+                <br>
                 <br>Y verte bajo la luna, o bajo el sol,
                 <br>O bajo el fuego o las lámparas,
                 <br>Acariciarte el rostro mientras callas
                 <br>Y besarte la frente mientras duermes.
-                </p>
-                <p>
+                <br>
                 <br>Pero si en algún momento la vida te apaga,
                 <br>Y tus sonrisas se sellan
                 <br>Y tus mejillas quedan blancas,
@@ -46,13 +42,12 @@
                 <br>O si soy incluso sólo parte,
                 <br>No lo dudes ni un instante:
                 <br>¡Déjame y sigue adelante!
-                </p>
-                <p>
+                <br>
                 <br>Sé libre como las aves,
                 <br>Vuela alto por los aires,
                 <br>Nunca dejes que tu sonrisa se pierda,
                 <br>No dejes que nadie se convierta en tu celda.
-                </p><p>
+                <br>
                 <br>No dejes que los cuervos se acerquen,
                 <br>No dejes que las penas te ataquen,
                 <br>No pierdas de vista el horizonte distante,
@@ -61,6 +56,7 @@
             </div>
         </div>
 	<br></br>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="la_estatua.php#body" title="La Estatua">Leer La Estatua</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

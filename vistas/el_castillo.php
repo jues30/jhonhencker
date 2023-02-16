@@ -22,7 +22,7 @@
                 Pero tu corazón, mi amada reina, es distinto, y a lo único que se asemeja es a un poderoso baluarte, o a un imponente castillo. Allí, mi niña, hay varios habitantes, y a sus afueras ejércitos enteros para invadirlo; entre esos ejércitos uno con un estandarte poderoso: Un pendón donde tengo enarbolada mi alma. 
                 </p>
                 <p>
-                Tienes allí sentimientos encerrados, presos de guerras pasadas; almas de hombres que te amaron pero a los que tú no amaste. Y siguen presos porque jamás salió de tu boca frase alguna, ni un desprecio ni una aceptación. Allí siguen esperando una sentencia proveniente de la reina que domina el castillo, sentada plácida sobre un trono imponente: He ahí tu razón.
+                Tienes allí sentimientos encerrados, presos de guerras pasadas; almas de hombres que te amaron, pero a los que tú no amaste. Y siguen presos porque jamás salió de tu boca frase alguna, ni un desprecio ni una aceptación. Allí siguen esperando una sentencia proveniente de la reina que domina el castillo, sentada plácida sobre un trono imponente: He ahí tu razón.
                 </p>
                 <p>
                 También hay otra clase de presos: Tus sentimientos. Estados de ánimo que jamás dejas salir, que amurallas con tu rostro inexpresivo y tu soberbia cautela. Sentimientos encerrados con barrotes de orgullo que no ceden ante los más fuertes terremotos.

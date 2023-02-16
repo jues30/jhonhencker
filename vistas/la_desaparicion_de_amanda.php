@@ -45,6 +45,7 @@
             </div>
         </div>
 	<br></br>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="la_armadura.php#body" title="La Armadura">Leer La Armadura</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

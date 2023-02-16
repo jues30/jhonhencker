@@ -28,7 +28,7 @@
                 <br>Contempla el negro futuro como espejo
                 <br>de frutos verdes, podridos y amargos,
                 <br>distorsionando la realidad de la vida
-                <br>con una ansiedad de ojos errados.
+                <br>con una ansiedad de ojos cerrados.
                 </p>
                 <p>
                 <br>¡No dejes que la mente se convierta

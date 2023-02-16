@@ -15,20 +15,20 @@
                 <p>Afortunado yo que, 
                 <br>bajo el crepúsculo dorado y rojo, 
                 <br>peino tu cabello y me pierdo en tus ojos. 
-                </p>
-                <p>Afortunado el árbol que, 
+                <br>
+                <br>Afortunado el árbol que, 
                 <br>amparándonos con sombra y calma, 
                 <br>disfruta de tu cuerpo tendido en sus ramas. 
-                </p>
-                <p>Afortunado el viento que, 
+                <br>
+                <br>Afortunado el viento que, 
                 <br>llevando con él dulces fragancias, 
                 <br>acaricia tu rostro y calma mis ansias. 
-                </p>
-                <p>Afortunado el río que
+                <br>
+                <br>Afortunado el río que
                 <br>pasa cerca, azulado, siseante y puro,
                 <br>y que nos refresca y arrulla con su susurro.
-                </p>
-                <p>Afortunadas las hojas 
+                <br>
+                <br>Afortunadas las hojas 
                 <br>que descansan en tu regazo, 
                 <br>mientras nos entrelazamos las manos, 
                 <br>mientras llega la noche de plata, 
@@ -38,6 +38,7 @@
             </div>
         </div>
 	<br></br>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_cadaver_de_un_angel.php#body" title="El Cadáver de un Ángel">Leer El Cadáver de un Ángel</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

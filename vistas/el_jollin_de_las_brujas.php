@@ -136,6 +136,7 @@
             </div>
         </div>
 	<br></br>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="en_boca_cerrada.php#body" title="En Boca Cerrada...">Leer En Boca Cerrada...</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

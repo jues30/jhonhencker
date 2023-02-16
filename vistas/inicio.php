@@ -16,8 +16,8 @@
         <ul>
           <li><a class="nav-link active" href="#header">Inicio</a></li>
           <li><a class="nav-link" href="#resume">Cuentos y Poemas</a></li>
-          <li><a class="nav-link" href="#services">Nallhard</a></li>
           <li><a class="nav-link" href="#portfolio">Libros</a></li>
+          <li><a class="nav-link" href="#services">Nallhard</a></li>
           <li><a class="nav-link" href="#about">Autor</a></li>
           <li><a class="nav-link" href="#contact">Contacto</a></li>
         </ul>
@@ -110,7 +110,7 @@
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">En Boca Cerrada...</a></h4>
+                                    <h4><a href="en_boca_cerrada.php#body">En Boca Cerrada...</a></h4>
 					<p><em>Saga: Las Tres Sombras.</em></p>
 				<p></p>
 				</div>
@@ -120,57 +120,27 @@
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">El Ladrón</a></h4>
+                                        <h4><a href="el_ladron.php#body">El Ladrón</a></h4>
 					<p><em>Libro: Colección.</em></p>
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
-                                        <h4><a href="#">La Desaparición de Amanda</a></h4>
+                                        <h4><a href="la_desaparicion_de_amanda.php#body">La Desaparición de Amanda</a></h4>
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">La Armadura</a></h4>
+                                        <h4><a href="la_armadura.php#body">La Armadura</a></h4>
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-					<h4><a href="#">Esquizofrenia</a></h4>
+                                        <h4><a href="esquizofrenia.php#body">Esquizofrenia</a></h4>
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
-					<h4><a href="#">Eidhard</a></h4>
-					<p><em>Libro: Colección.</em></p>
-				<p></p>
-				</div>
-                                <div class="resume-item pb-0">
-					<h4><a href="#">La Dama de las Ratas</a></h4>
-					<p><em>Libro: Colección.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="#">La Sepultura</a></h4>
-					<p><em>Libro: Colección.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="#">Crónicas de un Sinistro Secuestro</a></h4>
-					<p><em>Libro: Colección.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-					<h4><a href="#">Un Cuerpo en la Selva</a></h4>
-					<p><em>Libro: Colección.</em></p>
-				<p></p>
-				</div>
-                                <div class="resume-item pb-0">
-                                        <h4><a href="#">Terror en Frases Cortas</a></h4>
-					<p><em>Libro: Colección.</em></p>
-				<p></p>
-				</div>
-                                <div class="resume-item pb-0">
-                                        <h4><a href="#">Helena</a></h4>
+					<h4><a href="eidhard.php#body">Eidhard</a></h4>
 					<p><em>Libro: Colección.</em></p>
 				<p></p>
 				</div>
@@ -244,7 +214,7 @@
 				</div>
 				<div class="resume-item pb-0">
                                         <h4><a href="una_triste_amistad.php#body">Una Triste Amistad</a></h4>
-					<p><em>Estilo: Prosa.</em></p>
+					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
@@ -329,9 +299,9 @@
         <p>Nallhard</p>
       </div>
         <p align="justify">
-            El proyecto Nalhard fue una saga de varios libros mitológicos que inicialmente el autor no pensaba publicar.
+            El proyecto Nallhard fue una saga de varios libros mitológicos que inicialmente el autor no pensaba publicar.
             Fue un proyecto de años que Hencker creó para sí mismo, pero que finalmente decidió exponer al público.
-            El Nallhard es un mundo motólogico que recopila varias historias fantásticas, con personajes definidos y 
+            El Nallhard es un mundo imaginario que recopila varias historias fantásticas, con personajes definidos y 
             siempre manejando el estilo detallista y a menudo de suspenso y violencia.
         </p>
       <div class="row">
