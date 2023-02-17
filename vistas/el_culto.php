@@ -12,43 +12,39 @@
             <div class="row">
                 
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h2>EL MARCAR DEL TIEMPO</h2>
+            <h2>EL CULTO</h2>
                 <div class="row" align="justify">
                     <p>
-                    ¡Reloj! ¡Divinidad siniestra y horrible!
-                    <br>Que inmola todo en sus manecillas,
-                    <br>que vive y se agita oscilando la cadena
-                    <br>como una bestia alimentada de arcilla.
+                    Errante en la noche, entre lagos transparentes,
+                    <br>miro alrededor la tierra fría e infinita,
+                    <br>chapoteada de algunos árboles sin hojas
+                    <br>con ramas nudosas como dedos de ancianos.
                     <br>
-                    <br>Yo he vivido ardiendo a tu sombra,
-                    <br>esperando expulsar tu pesadilla burlona,
-                    <br>mientras veo como robas el perfume
-                    <br>de la belleza en todas sus formas.
+                    <br>Y al fondo del camino se elevaba el templo
+                    <br>de columnas grandes y ventanas negras
+                    <br>como ojos horribles que miran hacia adentro
+                    <br>y mantienen ocultos maleficios antiguos.
                     <br>
-                    <br>Aunque confieso con pena que a veces
-                    <br>doy gracias porque robas de las mujeres
-                    <br>su hermosura a ritmo dulce, lento y perezoso,
-                    <br>liberándome así de ser un esclavo vergonzoso.
+                    <br>Al entrar al tenebroso edificio veo por fin
+                    <br>un culto enfermizo creado por acólitos
+                    <br>que ponen como deidad tu imagen
+                    <br>y te veneran como un objeto singular.
                     <br>
-                    <br>Pero sepultas uno a uno a todos nosotros
-                    <br>dándonos, seguro, una vida de ventaja,
-                    <br>borrando de la humanidad el recuerdo
-                    <br>y sin derramar ni una sola lágrima.
+                    <br>¡Qué nauseas me dan esos rituales!
+                    <br>Una sensación de miedo y asco a la vez.
+                    <br>Adolescentes pálidos y viejos hediondos gritan:
+                    <br>¡Cuide Dios de ella, de todas la más bella!
                     <br>
-                    <br>¡Reloj! ¡Poderoso terror omnipresente!
-                    <br>Que aplana todo bajo su fuerza,
-                    <br>espero escaparme de ti en algún momento
-                    <br>y surgir del fondo de las antorchas muertas.
-                    </p>
+                    <br>Y mientras yo veo esos miedosos rituales
+                    <br>tú duermes plácida en tu cama,
+                    <br>ignorante del mundo oscuro que veo,
+                    <br>soñando feliz con cuentos de hadas.
+                </p>
                 </div>
-            </div>
-            <div class="col-lg-4" data-aos="fade-right">
-                <img src="assets/img/<?php echo $id_obra; ?>.jpg" class="img-fluid" alt="Obra de Alfred Kubin">
-                Obra de Alfred Kubin
             </div>
         </div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_monstruo_del_pozo.php#body" title="El Monstruo del Pozo">Leer El Monstruo del Pozo</a>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="desprecio.php#body" title="Desprecio">Leer Desprecio</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

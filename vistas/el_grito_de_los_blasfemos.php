@@ -12,43 +12,39 @@
             <div class="row">
                 
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h2>EL MARCAR DEL TIEMPO</h2>
+            <h2>EL GRITO DE LOS BLASFEMOS</h2>
                 <div class="row" align="justify">
                     <p>
-                    ¡Reloj! ¡Divinidad siniestra y horrible!
-                    <br>Que inmola todo en sus manecillas,
-                    <br>que vive y se agita oscilando la cadena
-                    <br>como una bestia alimentada de arcilla.
+                    Los blasfemos frecuentan el borde del barranco,
+                    <br>mirando abajo en el valle una iglesia rodeada de flores,
+                    <br>con altos pináculos cual hidra sus cabezas
+                    <br>y con ventanas negras como mirando sus entrañas.
                     <br>
-                    <br>Yo he vivido ardiendo a tu sombra,
-                    <br>esperando expulsar tu pesadilla burlona,
-                    <br>mientras veo como robas el perfume
-                    <br>de la belleza en todas sus formas.
+                    <br>Y desde la cima gritan sus sucios improperios
+                    <br>a los devotos allá abajo, cabizbajos y en silencio,
+                    <br>(soñadores solitarios de labios blanquecinos
+                    <br>que depositan sus deseos en imágenes de santos).
                     <br>
-                    <br>Aunque confieso con pena que a veces
-                    <br>doy gracias porque robas de las mujeres
-                    <br>su hermosura a ritmo dulce, lento y perezoso,
-                    <br>liberándome así de ser un esclavo vergonzoso.
+                    <br>Y dicen los desgraciados: ¡Tenemos en las tripas
+                    <br>un Gehena ardiente y cavernario, que pujante
+                    <br>concibe cada día un monstruoso bastardo,
+                    <br>que es visto como enemigo en los nobles relatos!
                     <br>
-                    <br>Pero sepultas uno a uno a todos nosotros
-                    <br>dándonos, seguro, una vida de ventaja,
-                    <br>borrando de la humanidad el recuerdo
-                    <br>y sin derramar ni una sola lágrima.
+                    <br>¡Pero el verdadero mal es el sacerdote adoctrinado!
+                    <br>Y la iglesia que utiliza a Dios como razón omnipotente.
+                    <br>¡Esa iglesia allá abajo en el valle rocoso
+                    <br>es sólo una guarida de servidores sin mente!
                     <br>
-                    <br>¡Reloj! ¡Poderoso terror omnipresente!
-                    <br>Que aplana todo bajo su fuerza,
-                    <br>espero escaparme de ti en algún momento
-                    <br>y surgir del fondo de las antorchas muertas.
-                    </p>
+                    <br>Al mismo tiempo los beatos miran hacia arriba,
+                    <br>escuchando ofensas bajo la cúpula celeste;
+                    <br>entonces gritan al unísono: ¡Esa gente allá arriba
+                    <br>es sólo una recua de pecadores sin mente!
+                </p>
                 </div>
-            </div>
-            <div class="col-lg-4" data-aos="fade-right">
-                <img src="assets/img/<?php echo $id_obra; ?>.jpg" class="img-fluid" alt="Obra de Alfred Kubin">
-                Obra de Alfred Kubin
             </div>
         </div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_monstruo_del_pozo.php#body" title="El Monstruo del Pozo">Leer El Monstruo del Pozo</a>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="la_piedad_negra.php#body" title="La Piedad Negra">Leer La Piedad Negra</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

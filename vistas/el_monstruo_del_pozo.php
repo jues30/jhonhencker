@@ -12,43 +12,37 @@
             <div class="row">
                 
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h2>EL MARCAR DEL TIEMPO</h2>
+            <h2>EL MONSTRUO DEL POZO</h2>
                 <div class="row" align="justify">
                     <p>
-                    ¡Reloj! ¡Divinidad siniestra y horrible!
-                    <br>Que inmola todo en sus manecillas,
-                    <br>que vive y se agita oscilando la cadena
-                    <br>como una bestia alimentada de arcilla.
+                    En el oscuro pozo se escucha el gorgoteo
+                    <br>donde la luminosidad no alcanza a llegar
+                    <br>y los oscuros horrores se esconden
+                    <br>en el fondo como agazapados por voluntad.
                     <br>
-                    <br>Yo he vivido ardiendo a tu sombra,
-                    <br>esperando expulsar tu pesadilla burlona,
-                    <br>mientras veo como robas el perfume
-                    <br>de la belleza en todas sus formas.
+                    <br>Allá abajo, invisible pero audible
+                    <br>se esconde el monstruo, en el fondo,
+                    <br>atento a que los ojos inmolen otra atención
+                    <br>y poder trepar del hueco, veloz y feroz.
                     <br>
-                    <br>Aunque confieso con pena que a veces
-                    <br>doy gracias porque robas de las mujeres
-                    <br>su hermosura a ritmo dulce, lento y perezoso,
-                    <br>liberándome así de ser un esclavo vergonzoso.
+                    <br>Y así bajar a la aldea a devorar niños y niñas,
+                    <br>triturar pequeños huesos como bambúes,
+                    <br>liberar ese hediondo aliento de vapor rojo
+                    <br>y saciar su sed con besos de muertos azules.
                     <br>
-                    <br>Pero sepultas uno a uno a todos nosotros
-                    <br>dándonos, seguro, una vida de ventaja,
-                    <br>borrando de la humanidad el recuerdo
-                    <br>y sin derramar ni una sola lágrima.
+                    <br>Y cuando toda la atención del pueblo se enfoque,
+                    <br>olvidando los pederastas y los blasfemos,
+                    <br>todos los aldeanos irán en busca del monstruo.
                     <br>
-                    <br>¡Reloj! ¡Poderoso terror omnipresente!
-                    <br>Que aplana todo bajo su fuerza,
-                    <br>espero escaparme de ti en algún momento
-                    <br>y surgir del fondo de las antorchas muertas.
+                    <br>Pero ninguno se atreverá a bajar al pozo
+                    <br>a matar la bestia que ellos liberaron
+                    <br>pues el crujir del festín los espantará.
                     </p>
                 </div>
             </div>
-            <div class="col-lg-4" data-aos="fade-right">
-                <img src="assets/img/<?php echo $id_obra; ?>.jpg" class="img-fluid" alt="Obra de Alfred Kubin">
-                Obra de Alfred Kubin
-            </div>
         </div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_monstruo_del_pozo.php#body" title="El Monstruo del Pozo">Leer El Monstruo del Pozo</a>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_grito_de_los_blasfemos.php#body" title="El Grito de los Blasfemos">Leer El Grito de los Blasfemos</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
