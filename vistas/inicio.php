@@ -376,7 +376,11 @@
             <p><a href="libros/los_jardines_rojos.pdf" target="_blank"><img src="assets/img/los_jardines_rojos.png" alt="Los Jardines Rojos y otros Nocturnos"></a></p>
           </div>
         </div>
-
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="icon-box">
+            <p><a href="#"><img src="assets/img/la_cancion_glacial.png" alt="La Canción Glacial"></a></p>
+          </div>
+        </div>
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
           <div class="icon-box">
             <p><a href="#"><img src="assets/img/coleccion.png" alt="Colección"></a></p>
