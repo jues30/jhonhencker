@@ -66,7 +66,7 @@
             </div>
         </div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="esquizofrenia.php#body" title="Esquizofrenia">Leer Esquizofrenia</a>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="la_dama_de_las_ratas.php#body" title="La Dama de las Ratas">Leer La Dama de las Ratas</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

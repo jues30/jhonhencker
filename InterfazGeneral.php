@@ -76,6 +76,7 @@ class InterfazGeneral {
     const LA_LLUVIA = 50;
     const EL_CULTO = 51;
     const DESPRECIO = 52;
+    const LA_DAMA_DE_LAS_RATAS = 53;
     
     
 }
