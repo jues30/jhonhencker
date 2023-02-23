@@ -57,6 +57,8 @@
                 </p>
             </div>
         </div>
+        <br>
+        <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
         <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="a_la_sombra_del_arbol.php#body" title="A la Sombra del Árbol">Leer A la Sombra del Árbol</a>
         <div class="counts">

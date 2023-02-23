@@ -47,6 +47,8 @@
                 Obra de Alfred Kubin
             </div>
         </div>
+        <br>
+        <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
         <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_monstruo_del_pozo.php#body" title="El Monstruo del Pozo">Leer El Monstruo del Pozo</a>
         <div class="counts">

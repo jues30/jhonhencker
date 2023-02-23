@@ -80,6 +80,8 @@
                 </p>
             </div>
         </div>
+        <br>
+        <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
         <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_jollin_de_las_brujas.php#body" title="Jollín de las Brujas">Leer El Jollín de las Brujas</a>
         <div class="counts">

@@ -61,6 +61,8 @@ class controladorIndex {
         $likes = $Obra->obtener_likes();
         $nombre = $Obra->obtener_nombre_obra();
         $titulo = $nombre.' - '.InterfazGeneral::AUTOR;
+        
+        $url = "https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"]."#body";
 
         require_once 'vistas/los_mundos_producidos.php';
     }

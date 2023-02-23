@@ -96,6 +96,8 @@
                 </p>
             </div>
         </div>
+        <br>
+        <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
         <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="las_dos_terribles_companeras.php#body" title="Las Dos Terribles Compañeras">Leer Las Dos Terribles Compañeras</a>
         <div class="counts">

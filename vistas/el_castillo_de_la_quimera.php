@@ -151,6 +151,8 @@
                 </p>
             </div>
         </div>
+        <br>
+        <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
         <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_demonio_de_la_montana.php#body" title="El Demonio de la Montaña">Leer El Demonio de la Montaña</a>
         <div class="counts">

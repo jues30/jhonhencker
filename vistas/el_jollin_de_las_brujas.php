@@ -135,6 +135,8 @@
                 </p>
             </div>
         </div>
+        <br>
+        <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
         <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="en_boca_cerrada.php#body" title="En Boca Cerrada...">Leer En Boca Cerrada...</a>
         <div class="counts">

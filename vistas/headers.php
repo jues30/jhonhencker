@@ -41,4 +41,6 @@
       
     }
     </script>
-</head>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v16.0" nonce="X5Lhj61t"></script>
+    </head>

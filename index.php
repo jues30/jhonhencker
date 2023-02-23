@@ -66,7 +66,9 @@ class controladorIndex {
         } else {
             $imagen_autor = "assets/img/jhon_hencker.jpg";
         }
-
+        
+        $url = "https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"];
+        
         require_once 'vistas/inicio.php';
     }
 }

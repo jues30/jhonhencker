@@ -12,7 +12,7 @@ require_once 'funciones/recargarLibrerias.php';
 require_once 'InterfazGeneral.php';
 
 /**
- * Archivo 'la_bruja.php'
+ * Archivo 'yucida.php'
  * Controlador index
  * 
  * ***   PAGINA WEB   ***
@@ -61,6 +61,8 @@ class controladorIndex {
         $likes = $Obra->obtener_likes();
         $nombre = $Obra->obtener_nombre_obra();
         $titulo = $nombre.' - '.InterfazGeneral::AUTOR;
+        
+        $url = "https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"]."#body";
 
         require_once 'vistas/yucida.php';
     }

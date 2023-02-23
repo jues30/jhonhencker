@@ -10,8 +10,7 @@
         <h1><a href="index.php"><?php echo InterfazGeneral::AUTOR; ?></a></h1>
       <h2><p><?php echo $Frase->obtener_frase(); ?></p>
           <br><p><span><?php echo $Frase->obtener_observaciones(); ?></span></p>
-	  </h2>
-
+    </h2>
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link active" href="#header">Inicio</a></li>
@@ -34,7 +33,7 @@
   </header><!-- End Header -->
   
   <!-- ======= Resume Section ======= -->
-	<section id="resume" class="resume">
+    <section id="resume" class="resume">
     <div class="container">
 		<div class="section-title">
 			<h2>Obras</h2>
@@ -285,26 +284,27 @@
           <h3><?php echo InterfazGeneral::AUTOR; ?></h3>
             <p class="fst-italic">
                 <br>
-              Con la publicación de "La Bruja", Jhon E. Hencker inició el camino por el mundo de la literatura tenebrosa.
-              Hencker en verdad no tuvo una vida trágica como la gran mayoría de los artistas de su género. Su familia fue de clase media y tuvo buena educación. 
+              Con la publicación de "La Bruja", Jhon Estiven Hencker inició el camino por el mundo de la literatura tenebrosa.
+              Hencker en verdad no tuvo una vida trágica como la gran mayoría de los artistas de su género. Su familia fue de clase media y tuvo buena educación (casi toda enfocada a la ingeniería). 
               Durante su adultez conoció paises que lo inspiraron en varios de sus cuentos y poemas. 
               Siempre fiel al estilo de sus escritores favoritos, como Bierce, Allan Poe o Baudelarie, intentó siempre dar el giro a sus historias en el último momento, 
               buscando el anhelado impacto en los lectores. 
             </p>
             <p class="fst-italic">
               Decidió publicar a la edad de 37 años, aunque la gran mayoría de sus escritos los realizó entre los 15 y los 25 años.
-              Nunca buscó la fama por su literatura, pues su profesión como ingeniero poco tenía que ver con su pasión,
-              aunque logró combinar la poesía y una red neuronal creada por él mismo (inteligencia artificial) en sus "Poemas sin Autor"; obra que nunca publicó.
+              Nunca buscó la fama por su literatura, pues su profesión como ingeniero poco tenía que ver con su pasión.
+              De hecho, afirmó que casi siempre escribió para sí mismo.
             </p>
             </div>
             <div class="row" align="justify">
             <p class="fst-italic">
                 <br>
-                Su obra completa consite en dos libros de cuentos cortos y poemas: Los Jardines Rojos y otros nocturnos, y Colección. Y una saga
-                de literatura fántastica llamada "Nallard", que se compone de 5 libros.
+                Su obra completa consite en dos libros de cuentos cortos: "Los Jardines Rojos y otros nocturnos", y "Colección",
+                además de un libro de poemas llamado "La Canción Glacial".
+                Finalmente, escribió una saga de literatura fántastica llamada "Nallard", que se compone de 5 libros.
             </p>
             <p class="fst-italic">
-                Finalmente, pidió siempre a sus lectores: "Leer sólo un cuento por día", esperando lograr el choque
+                Para todos sus libros, pidió siempre a sus lectores: "Leer sólo un cuento o poema por día", esperando lograr el choque
                 psicológico que quiso siempre imponer en su oscura obra.
             </p>
         </div>

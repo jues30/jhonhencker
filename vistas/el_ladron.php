@@ -41,6 +41,8 @@
                 </p>
             </div>
         </div>
+        <br>
+        <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
         <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="la_desaparicion_de_amanda.php#body" title="La Desaparición de Amanda">Leer La Desaparición de Amanda</a>
         <div class="counts">
