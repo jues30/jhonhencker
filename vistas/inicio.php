@@ -299,7 +299,7 @@
             <div class="row" align="justify">
             <p class="fst-italic">
                 <br>
-                Su obra completa consite en dos libros de cuentos cortos: "Los Jardines Rojos y otros nocturnos", y "Colección",
+                Parte de su obra más conocida está formada por dos libros de cuentos cortos: "Los Jardines Rojos y otros nocturnos", y "Colección",
                 además de un libro de poemas llamado "La Canción Glacial".
                 Finalmente, escribió una saga de literatura fántastica llamada "Nallard", que se compone de 5 libros.
             </p>
