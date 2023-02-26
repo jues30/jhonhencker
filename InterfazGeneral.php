@@ -77,6 +77,8 @@ class InterfazGeneral {
     const EL_CULTO = 51;
     const DESPRECIO = 52;
     const LA_DAMA_DE_LAS_RATAS = 53;
+    const ATAQUE_DE_ANSIEDAD = 54;
+    const EL_TERRIBLE_TEDIO = 55;
     
     
 }

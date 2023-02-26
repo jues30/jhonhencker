@@ -11,39 +11,30 @@
             </div>
             <div class="row">
             <div class="row" align="justify">
-               <h2>EL PODER DE LA MENTE</h2>
+               <h2>EL TERRIBLE TEDIO</h2>
                 <p>
-                De vez en cuando se debe encadenar a la mente,
-                <br>pues puede volverse un enemigo terrible,
-                <br>igual que la Muerte que suplica por una vela
-                <br>o un dolor amplio como onda sublime.
+                Con acres colores se pintan nuestros arrepentimientos,
+                <br>siempre horribles, sin importar la raza, 
+                <br>opacando la bella vista de la vida
+                <br>y amplificado por el terrible hastío.
                 <br>
-                <br>Los pensamientos se vuelven afilados
-                <br>como una espada que no se ablanda,
-                <br>y asfixia el débil cuerpo con espasmos
-                <br>como ahogado en su sangre coagulada.
+                <br>¡Oh Satán!, que sin esfuerzo prolongas nuestra locura,
+                <br>te pido que calmes nuestro vil e implacable tedio,
+                <br>que nos envíes a la orilla de la noche oscura
+                <br>donde las sombras de la pereza desaparecen.
                 <br>
-                <br>Contempla el negro futuro como espejo
-                <br>de frutos verdes, podridos y amargos,
-                <br>distorsionando la realidad de la vida
-                <br>con una ansiedad de ojos cerrados.
-                <br>
-                <br>¡No dejes que la mente se convierta
-                <br>en una bestia repleta de miedos!
-                <br>Respira hondo y empotra la cabeza
-                <br>entre unos hombros firmes y pétreos.
-                <br>
-                <br>¡No pienses mil veces en dar el paso!
-                <br>Apaga el Diablo con potente decisión.
-                <br>Que la mente retire los dedos lánguidos
-                <br>que llenan las metas de confusión.
+                <br>¡Quítanos la corona de la desesperanza!
+                <br>Lanza sobre nosotros el abrazo de la reina virgen,
+                <br>sácanos el corazón negro al que nada le apetece
+                <br>para finalmente temer a la muerte, y vivir con orgullo
+                <br>lejos del vicio de la conformidad insaciable.
                 </p>     
             </div>
         </div>
         <br>
         <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_terrible_tedio.php#body" title="El Terrible Tedio">Leer El Terrible Tedio</a>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="la_bruja.php#body" title="La Bruja">Leer La Bruja</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

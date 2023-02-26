@@ -147,6 +147,11 @@
 					<p><em>Libro: Colección.</em></p>
 				<p></p>
 				</div>
+                                <div class="resume-item pb-0">
+					<h4><a href="ataque_de_ansiedad.php#body">Ataque de Ansiedad</a></h4>
+					<p><em>Libro: La Canción Glacial.</em></p>
+				<p></p>
+				</div>
                             </div>
                             <div class="col-lg-6">
                             <h3 class="resume-title">Poemas</h3>
@@ -252,6 +257,11 @@
 				</div>
                                 <div class="resume-item pb-0">
                                         <h4><a href="el_poder_de_la_mente.php#body">El Poder de la Mente</a></h4>
+					<p><em>Estilo: Verso.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="el_terrible_tedio.php#body">El Terrible Tedio</a></h4>
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
