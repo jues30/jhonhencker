@@ -16,7 +16,7 @@
                 </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Eidhard</h3>
-            <p class="fst-italic">Colección</p>
+            <p class="fst-italic">Literatura Tenebrosa</p>
                 <div class="row" align="justify">
                     <p>
                     Me tomaré cierta libertad en este relato, pues narraré esta historia como cuentero y a la vez historiador. ¿Cuánto de realidad y de fantasía hay en este relato? Al igual que la verdadera historia y que los cuentos fantásticos, esta historia tiene ambos puntos de vista. Es que desde que empecé a conocer del guerrero Eidhard supe que tenía que contar su historia, guiada por la arrogancia y el orgullo.

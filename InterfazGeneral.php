@@ -28,7 +28,7 @@ class InterfazGeneral {
      * Obras
      */
     const LOS_JARDINES_ROJOS_Y_OTROS_NOCTURNOS = 1;
-    const COLECCION = 2;
+    const LITERATURA_TENEBROSA = 2;
     const NALLHARD = 3;
     const EL_IMPERIO_DE_LOS_DOS_SOLES = 4;
     const LA_EDAD_DE_LAS_ESTRELLAS = 5;

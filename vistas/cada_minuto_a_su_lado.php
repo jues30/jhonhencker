@@ -7,7 +7,7 @@
 	<div class="about-me container">
             <div class="section-title">
                 <h2><?php echo InterfazGeneral::AUTOR; ?></h2>
-                <p>POEMAS</p>
+                <p>CUENTOS</p>
             </div>
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
@@ -23,7 +23,7 @@
                     <p>
                     <h4><a href="libros/cada_minuto_a_su_lado.pdf" target="_blank">Descargar Cada Minuto a su Lado</a></h4>
                     </p>
-                    <p><em>Libro: Colección.</em></p>
+                    <p><em>Libro: Literatura Tenebrosa.</em></p>
                 </div> 
                 </div>
         </div>

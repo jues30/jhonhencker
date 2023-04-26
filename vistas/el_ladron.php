@@ -16,7 +16,7 @@
                 </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>El Ladrón</h3>
-            <p class="fst-italic">Colección</p>
+            <p class="fst-italic">Literatura Tenebrosa</p>
                 <div class="row" align="justify">
                     <p>
                     Fue una noche de fiesta como ya se había vuelto costumbre. Un sábado un poco alocado en el centro de Suba para dispersar un poco el estrés del trabajo. Llegamos al puente peatonal que tenía que cruzar para llegar a mi casa, que quedaba detrás del centro comercial, al otro lado de la avenida. Mis amigos, como siempre, tomaron un taxi y se fueron para sus respectivas casas. Yo, inocente del peligro, subí solo el puente, algo que ya había hecho incontables veces; pero esa noche fue diferente. 

@@ -69,7 +69,7 @@
                                 </div>
                                 <div class="resume-item pb-0">
 					<h4><a href="adios_mama.php#body">Adiós Mamá</a></h4>
-					<p><em>Libro: Colección.</em></p>
+					<p><em>Libro: Literatura Tenebrosa.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
@@ -114,12 +114,12 @@
 				</div>
                                 <div class="resume-item pb-0">
                                         <h4><a href="cada_minuto_a_su_lado.php#body">Cada Minuto a su Lado</a></h4>
-					<p><em>Libro: Colección.</em></p>
+					<p><em>Libro: Literatura Tenebrosa.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
                                         <h4><a href="el_ladron.php#body">El Ladrón</a></h4>
-					<p><em>Libro: Colección.</em></p>
+					<p><em>Libro: Literatura Tenebrosa.</em></p>
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
@@ -134,7 +134,7 @@
 				</div>
                                 <div class="resume-item pb-0">
                                         <h4><a href="la_dama_de_las_ratas.php#body">La Dama de las Ratas</a></h4>
-					<p><em>Libro: Colección.</em></p>
+					<p><em>Libro: Literatura Tenebrosa.</em></p>
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
@@ -144,7 +144,7 @@
 				</div>
                                 <div class="resume-item pb-0">
 					<h4><a href="eidhard.php#body">Eidhard</a></h4>
-					<p><em>Libro: Colección.</em></p>
+					<p><em>Libro: Literatura Tenebrosa.</em></p>
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
@@ -267,7 +267,7 @@
 				</div>
 				<!-- <div class="resume-item pb-0">
                                     <h4><a href="los_poemas_sin_autor.php#body">Los Poemas Sin Autor</a></h4>
-					<p><em>Libro: Colección.</em></p>
+					<p><em>Libro: Literatura Tenebrosa.</em></p>
 				<p></p>
 				</div>-->
       </div>
@@ -309,7 +309,7 @@
             <div class="row" align="justify">
             <p class="fst-italic">
                 <br>
-                Parte de su obra más conocida está formada por dos libros de cuentos cortos: "Los Jardines Rojos y otros nocturnos", y "Colección",
+                Parte de su obra más conocida está formada por dos libros de cuentos cortos: "Los Jardines Rojos y otros nocturnos", y "Literatura Tenebrosa",
                 además de un libro de poemas llamado "La Canción Glacial".
                 Finalmente, escribió una saga de literatura fántastica llamada "Nallard", que se compone de 5 libros.
             </p>
@@ -393,7 +393,7 @@
         </div>
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
           <div class="icon-box">
-            <p><a href="#"><img src="assets/img/coleccion.png" alt="Colección"></a></p>
+            <p><a href="#"><img src="assets/img/literatura_tenebrosa.png" alt="Literatura Tenebrosa"></a></p>
           </div>
         </div>
       </div>

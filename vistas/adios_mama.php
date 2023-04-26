@@ -16,7 +16,7 @@
                 </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Adiós Mamá</h3>
-            <p class="fst-italic">Colección</p>
+            <p class="fst-italic">Literatura Tenebrosa</p>
                 <div class="row" align="justify">
                     <p>
                     Fue un miércoles cuando mi madre murió. Su partida indudablemente aceleró mi enfermedad, lo que me paralizó casi completamente sólo meses después de su partida. Mi padre, después de su muerte, decidió sumergir su pena en el trabajo, yendo y viniendo a los graneros familiares. Casi no pasaba tiempo en casa, por lo que contrató una cuidadora para mí; una mujer terrible. Pero antes quiero que conozcan sobre mi amada madre y mi vida antes de su muerte.

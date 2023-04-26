@@ -16,7 +16,7 @@
                 </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>La Dama de las Ratas</h3>
-            <p class="fst-italic">Colección</p>
+            <p class="fst-italic">Literatura Tenebrosa</p>
                 <div class="row" align="justify">
                     <p>
                     El 17 de noviembre una carta llegó a la estación de policía. El caso tuvo poca cobertura mediática, pero fue un caso realmente trágico. La carta indicaba con lujo de detalles que había una mujer secuestrada en el segundo piso de una casona en el centro de la ciudad. Era de un remitente anónimo y la carta estaba hecha a mano. 
