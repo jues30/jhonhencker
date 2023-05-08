@@ -79,6 +79,9 @@ class InterfazGeneral {
     const LA_DAMA_DE_LAS_RATAS = 53;
     const ATAQUE_DE_ANSIEDAD = 54;
     const EL_TERRIBLE_TEDIO = 55;
+    const EL_BARCO_NEGRERO = 56;
+    const EL_AUTOESTIMA_A_PEDAZOS = 57;
+    const NO_LO_SABIA = 58;
     
     
 }

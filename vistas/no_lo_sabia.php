@@ -11,30 +11,31 @@
             </div>
             <div class="row">
             <div class="row" align="justify">
-               <h2>EL TERRIBLE TEDIO</h2>
+               <h2>NO LO SABÍA</h2>
                 <p>
-                Con acres colores se pintan nuestros arrepentimientos,
-                <br>siempre horribles, sin importar la raza, 
-                <br>opacando la bella vista de la vida
-                <br>y amplificado por el terrible hastío.
+                Mi rutina viaja entre noches cálidas y lánguidas,
+                <br>y mi angustia se refleja en sus espejos voluptuosos.
+                <br>Estériles recuerdos de una vida sin problemas
+                <br>donde nada he necesitado durante épocas.
                 <br>
-                <br>¡Oh Satán!, que sin esfuerzo prolongas nuestra locura,
-                <br>te pido que calmes nuestro vil e implacable tedio,
-                <br>que nos envíes a la orilla de la noche oscura
-                <br>donde las sombras de la pereza desaparecen.
+                <br>Sin embargo, la vida, que pocas veces es bondadosa
+                <br>te ha puesto frente a mí, singularmente fresca,
+                <br>y me di cuenta que pensé que no necesitaba nada
+                <br>hasta que me di cuenta que a ti te necesitaba.
                 <br>
-                <br>¡Quítanos la corona de la desesperanza!
-                <br>Lanza sobre nosotros el abrazo de la reina virgen,
-                <br>sácanos el corazón negro al que nada le apetece
-                <br>para finalmente temer a la muerte, y vivir con orgullo
-                <br>lejos del vicio de la conformidad insaciable.
-                </p>     
+                <br>Y de repente entre las brumas del hastío
+                <br>empezaron a nacer del agua estrellas
+                <br>abriendo ante mí un mundo que desconocía.
+                <br>
+                <br>De nada carezco, pero a mi lado te quiero
+                <br>pues supe que entre monumentos altivos
+                <br>tú, amada mía, eras lo único que no tenía.
+                </p>
             </div>
         </div>
         <br>
         <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
-	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_autoestima_a_pedazos.php#body" title="El Autoestima a Pedazos">Leer El Autoestima a Pedazos</a>
+	<br></br><a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="la_lluvia.php#body" title="Leer La Lluvia">Leer La Lluvia</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

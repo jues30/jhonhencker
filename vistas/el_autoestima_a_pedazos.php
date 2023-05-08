@@ -10,31 +10,36 @@
                 <p>POEMAS</p>
             </div>
             <div class="row">
-            <div class="row" align="justify">
-               <h2>EL TERRIBLE TEDIO</h2>
-                <p>
-                Con acres colores se pintan nuestros arrepentimientos,
-                <br>siempre horribles, sin importar la raza, 
-                <br>opacando la bella vista de la vida
-                <br>y amplificado por el terrible hastío.
-                <br>
-                <br>¡Oh Satán!, que sin esfuerzo prolongas nuestra locura,
-                <br>te pido que calmes nuestro vil e implacable tedio,
-                <br>que nos envíes a la orilla de la noche oscura
-                <br>donde las sombras de la pereza desaparecen.
-                <br>
-                <br>¡Quítanos la corona de la desesperanza!
-                <br>Lanza sobre nosotros el abrazo de la reina virgen,
-                <br>sácanos el corazón negro al que nada le apetece
-                <br>para finalmente temer a la muerte, y vivir con orgullo
-                <br>lejos del vicio de la conformidad insaciable.
-                </p>     
+                
+            <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <h2>EL AUTOESTIMA A PEDAZOS</h2>
+                <div class="row" align="justify">
+                    <p>
+                    La bella se condena bajo su ardor
+                    <br>vigilada por ese cielo oscuro,
+                    <br>inundada por el horror de la noche
+                    <br>rebosante de recuerdos borrosos.
+                    <br>
+                    <br>Y bajo una aurora titánica,
+                    <br>y derrumbada entre almohadas,
+                    <br>escucha llorar su alma en sus entrañas
+                    <br>arrepentida de sus ásperos actos.
+                    <br>
+                    <br>Y a su lado yace un extraño apestoso
+                    <br>que (ella sabe) recorrió con manos callosas
+                    <br>cada punta de su osamenta inmunda.
+                    <br>
+                    <br>-«El autoestima de nuevo abajo»-
+                    <br>piensa ella con infinita desdicha
+                    <br>al tiempo que recoge su dignidad a trozos.
+                    </p>
+                </div>
             </div>
         </div>
         <br>
         <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_autoestima_a_pedazos.php#body" title="El Autoestima a Pedazos">Leer El Autoestima a Pedazos</a>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="la_bruja.php#body" title="La Bruja">Leer La Bruja</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

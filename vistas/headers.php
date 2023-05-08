@@ -24,6 +24,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   <script src="js/like.js" type="text/javascript"></script>
+  <script src="js/descargar_libro.js" type="text/javascript"></script>
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",

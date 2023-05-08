@@ -152,6 +152,11 @@
 					<p><em>Libro: La Canción Glacial.</em></p>
 				<p></p>
 				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="el_barco_negrero.php#body">El Barco Negrero</a></h4>
+					<p><em>Libro: Literatura Tenebrosa.</em></p>
+				<p></p>
+				</div>
                             </div>
                             <div class="col-lg-6">
                             <h3 class="resume-title">Poemas</h3>
@@ -211,7 +216,7 @@
                                 <p></p>
 				</div>
 				<div class="resume-item pb-0">
-                                        <h4><a href="la_piedad_negra.php#body">La Piedad Negra</a></h4>
+                                        <h4><a href="no_lo_sabia.php#body">No lo Sabía</a></h4>
 					<p><em>Estilo: Prosa.</em></p>
 				<p></p>
 				</div>
@@ -265,11 +270,11 @@
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
-				<!-- <div class="resume-item pb-0">
-                                    <h4><a href="los_poemas_sin_autor.php#body">Los Poemas Sin Autor</a></h4>
-					<p><em>Libro: Literatura Tenebrosa.</em></p>
+				<div class="resume-item pb-0">
+                                        <h4><a href="el_autoestima_a_pedazos.php#body">El Autoestima a Pedazos</a></h4>
+					<p><em>Estilo: Verso.</em></p>
 				<p></p>
-				</div>-->
+				</div>
       </div>
 
     </div>
@@ -341,25 +346,25 @@
       <div class="row">
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
           <div class="icon-box">
-            <p><a href="libros/nallhard.pdf" target="_blank"><img src="assets/img/nallhard.png" alt="Nallhard"></a></p>
+            <p><a href="libros/nallhard.pdf" target="_blank" onclick="descarga_libro(3)"><img src="assets/img/nallhard.png" alt="Nallhard"></a></p>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
           <div class="icon-box">
-            <p><a href="libros/el_imperio_de_los_dos_soles.pdf" target="_blank"><img src="assets/img/el_imperio_de_los_dos_soles.png" alt="El Imperio de los Dos Soles"></a></p>
+            <p><a href="libros/el_imperio_de_los_dos_soles.pdf" target="_blank" onclick="descarga_libro(4)"><img src="assets/img/el_imperio_de_los_dos_soles.png" alt="El Imperio de los Dos Soles"></a></p>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
           <div class="icon-box">
-            <p><a href="libros/la_edad_de_las_estrellas.pdf" target="_blank"><img src="assets/img/la_edad_de_las_estrellas_1.png" alt="La Edad de las Estrellas I"></a></p>
+            <p><a href="libros/la_edad_de_las_estrellas.pdf" target="_blank" onclick="descarga_libro(5)"><img src="assets/img/la_edad_de_las_estrellas_1.png" alt="La Edad de las Estrellas I"></a></p>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
           <div class="icon-box">
-            <p><a href="libros/la_edad_de_las_estrellas_2.pdf" target="_blank"><img src="assets/img/la_edad_de_las_estrellas_2.png" alt="La Edad de las Estrellas II"></a></p>
+            <p><a href="libros/la_edad_de_las_estrellas_2.pdf" target="_blank" onclick="descarga_libro(6)"><img src="assets/img/la_edad_de_las_estrellas_2.png" alt="La Edad de las Estrellas II"></a></p>
           </div>
         </div>
 
@@ -383,17 +388,32 @@
      <div class="row">
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
           <div class="icon-box">
-            <p><a href="libros/los_jardines_rojos.pdf" target="_blank"><img src="assets/img/los_jardines_rojos.png" alt="Los Jardines Rojos y otros Nocturnos"></a></p>
+                <p><a href="#"><img src="assets/img/los_jardines_rojos.png" alt="Los Jardines Rojos y otros Nocturnos"></a></p>
+                <br><p>
+                <a href="libros/los_jardines_rojos.pdf" onclick="descarga_libro(1)" target="_blank"><img src="assets/img/botones/pdf.jpg" alt="Descargar PDF" width="50px" height="50px"></a>
+                <a href="#" target="_blank"><img src="assets/img/botones/amazon.jpg" alt="Comprar en Amazon" width="50px" height="50px"></a>
+                <a href="#" target="_blank"><img src="assets/img/botones/ita_editorial.jpg" alt="Comprar en Ita Editorial" width="50px" height="50px"></a>
+                </p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
           <div class="icon-box">
-            <p><a href="#"><img src="assets/img/la_cancion_glacial.png" alt="La Canción Glacial"></a></p>
+                <p><a href="#"><img src="assets/img/la_cancion_glacial.png" alt="La Canción Glacial"></a></p>
+                <br><p>
+                <a href="#" target="_blank"><img src="assets/img/botones/pdf.jpg" alt="Descargar PDF" width="50px" height="50px"></a>
+                <!-- <a href="#" target="_blank"><img src="assets/img/botones/amazon.jpg" alt="Comprar en Amazon" width="50px" height="50px"></a>
+                <a href="#" target="_blank"><img src="assets/img/botones/ita_editorial.jpg" alt="Comprar en Ita Editorial" width="50px" height="50px"></a>-->
+                </p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
           <div class="icon-box">
-            <p><a href="#"><img src="assets/img/literatura_tenebrosa.png" alt="Literatura Tenebrosa"></a></p>
+                <p><a href="#"><img src="assets/img/literatura_tenebrosa.png" alt="Literatura Tenebrosa"></a></p>
+                <br><p>
+                <a href="#" target="_blank"><img src="assets/img/botones/pdf.jpg" alt="Descargar PDF" width="50px" height="50px"></a>
+                <!-- <a href="#" target="_blank"><img src="assets/img/botones/amazon.jpg" alt="Comprar en Amazon" width="50px" height="50px"></a>
+                <a href="#" target="_blank"><img src="assets/img/botones/ita_editorial.jpg" alt="Comprar en Ita Editorial" width="50px" height="50px"></a>-->
+                </p>
           </div>
         </div>
       </div>
