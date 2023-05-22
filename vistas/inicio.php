@@ -118,7 +118,7 @@
 				<p></p>
 				</div>
 				<div class="resume-item pb-0">
-                                        <h4><a href="el_ladron.php#body">El Ladrón</a></h4>
+                                        <h4><a href="monstruo.php#body">Monstruo</a></h4>
 					<p><em>Libro: Literatura Tenebrosa.</em></p>
 				<p></p>
 				</div>

@@ -29,7 +29,7 @@
         </div>
         <br>
         <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
-        <br><br><a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_ladron.php#body" title="El Ladrón">Leer El Ladrón</a>
+        <br><br><a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="monstruo.php#body" title="Monstruo">Leer Monstruo</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

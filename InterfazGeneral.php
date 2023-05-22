@@ -82,6 +82,7 @@ class InterfazGeneral {
     const EL_BARCO_NEGRERO = 56;
     const EL_AUTOESTIMA_A_PEDAZOS = 57;
     const NO_LO_SABIA = 58;
+    const MONSTRUO = 59;
     
     
 }
