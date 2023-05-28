@@ -133,6 +133,11 @@
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
+                                        <h4><a href="el_pacto_con_baal.php#body">El Pacto con Baal</a></h4>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
                                         <h4><a href="la_dama_de_las_ratas.php#body">La Dama de las Ratas</a></h4>
 					<p><em>Libro: Literatura Tenebrosa.</em></p>
 				<p></p>
@@ -167,6 +172,11 @@
 				</div>
 				<div class="resume-item pb-0">
 					<h4><a href="sigue_adelante.php#body">Sigue Adelante</a></h4>
+					<p><em>Estilo: Verso.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+					<h4><a href="salem.php#body">Salem</a></h4>
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>
