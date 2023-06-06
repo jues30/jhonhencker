@@ -18,7 +18,7 @@
                 <div class="row" align="justify">
                      <h2>LOS POEMAS SIN AUTOR</h2>
                     <p>
-                    Los Poemas Sin Autor son una obra corta inspirada en los resultados de una red neuronal recurrente (inteligencia artificial) creada por el autor. Para este proyecto, Hencker quiso unir sus dos pasiones: La ingenieria y la escritura.
+                    Los Poemas Sin Autor son una obra corta inspirada en los resultados de una red neuronal recurrente (inteligencia artificial) creada por el autor. Para este proyecto, Juan Esteban Peláez quiso unir sus dos pasiones: La ingenieria y la escritura.
                     </p>
                     <p>
                     Aunque la red neuronal sólo sirvio como inspiración a estos poemas, el autor decidió llamarlos "Los Poemas Sin Autor" aluciendo que, aunque él creo la red neuronal e hizo los poemas, la obra pertenece a la inspiración; pero para este caso los poemas no tienen dueño alguno.

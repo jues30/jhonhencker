@@ -309,8 +309,8 @@
           <h3><?php echo InterfazGeneral::AUTOR; ?></h3>
             <p class="fst-italic">
                 <br>
-              Con la publicación de "La Bruja", Jhon Estiven Hencker inició el camino por el mundo de la literatura tenebrosa.
-              Hencker en verdad no tuvo una vida trágica como la gran mayoría de los artistas de su género. Su familia fue de clase media y tuvo buena educación (casi toda enfocada a la ingeniería). 
+                Con la publicación de "La Bruja" en una antalogía llamada <a href="#">Terror en la Ciudad</a>, Juan Esteban Peláez inició el camino por el mundo de la literatura tenebrosa.
+              El autor en verdad no tuvo una vida trágica como la gran mayoría de los artistas de su género. Su familia fue de clase media y tuvo buena educación (casi toda enfocada a la ingeniería). 
               Durante su adultez conoció paises que lo inspiraron en varios de sus cuentos y poemas. 
               Siempre fiel al estilo de sus escritores favoritos, como Bierce, Allan Poe o Baudelarie, intentó siempre dar el giro a sus historias en el último momento, 
               buscando el anhelado impacto en los lectores. 
@@ -349,7 +349,7 @@
       </div>
         <p align="justify">
             El proyecto Nallhard fue una saga de varios libros mitológicos que inicialmente el autor no pensaba publicar.
-            Fue un proyecto de años que Hencker creó para sí mismo, pero que finalmente decidió exponer al público.
+            Fue un proyecto de años que el autor creó para sí mismo, pero que finalmente decidió exponer al público.
             El Nallhard es un mundo imaginario que recopila varias historias fantásticas, con personajes definidos y 
             siempre manejando el estilo detallista y a menudo de suspenso y violencia.
         </p>
@@ -455,7 +455,7 @@
           <div class="info-box">
             <i class="bx bx-envelope"></i>
             <h3>Correo:</h3>
-            <p>contacto@jhonhencker.com</p>
+            <p>contacto@jepelaez.com</p>
           </div>
         </div>
 

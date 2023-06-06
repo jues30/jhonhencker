@@ -1,5 +1,5 @@
 function descarga_libro(id_obra) {
-    getJSON('http://localhost/jhonhencker/votar.php?id_obra='+id_obra,
+    getJSON('http://localhost/jepelaeze/votar.php?id_obra='+id_obra,
     function(err, data) {
       if (err !== null) {
         

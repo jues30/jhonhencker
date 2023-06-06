@@ -15,7 +15,7 @@ class InterfazGeneral {
     /**
      * Autor
      */
-    const AUTOR = "Jhon E. Hencker";
+    const AUTOR = "Juan Esteban Peláez";
     
     /**
      * Tipo Obras

@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-lg-4" data-aos="fade-right">
                     <img src="assets/img/404.png" class="img-fluid" alt="PÁGINA NO ENCONTRADA">
-                    <a href="index.php" class="img-fluid" alt="Jhon E. Hencker">Volver</a>
+                    <a href="index.php" class="img-fluid" alt="Juan Esteban Peláez">Volver</a>
                 </div>
             </div>
         </div>

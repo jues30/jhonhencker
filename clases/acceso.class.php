@@ -2,7 +2,7 @@
 /**
  * Archivo 'accesos.class.php'
  * 
- * ***   JHON HENCKER SYSTEM   ***
+ * ***   SYSTEM   ***
  *
  * @copyright  Todos los derechos reservados. Juan Esteban Pelaez. 2015.
  * @author     Juan Esteban Pelaez <jues30@gmail.com>

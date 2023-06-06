@@ -62,9 +62,9 @@ class controladorIndex {
         $titulo = InterfazGeneral::AUTOR;
         $pais = getCountryFromIP($ip, 'code');
         if($pais == "CO") {
-            $imagen_autor = "assets/img/jhon_hencker2.jpg";
+            $imagen_autor = "assets/img/esteban_pelaez2.jpg";
         } else {
-            $imagen_autor = "assets/img/jhon_hencker.jpg";
+            $imagen_autor = "assets/img/esteban_pelaez.jpg";
         }
         
         $url = "https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"];

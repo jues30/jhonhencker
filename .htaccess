@@ -1,4 +1,4 @@
-ErrorDocument 404 http://localhost/jhonhencker/error404.php
+ErrorDocument 404 http://localhost/jepelaeze/error404.php
 Options -Indexes
 AddType application/x-httpd-php .foo
 <FilesMatch "\.(htaccess|htpasswd|ini|phps|fla|psd|log|sh)$">

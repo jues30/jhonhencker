@@ -31,7 +31,7 @@
       "@type": "Literatura de terror",
       "name": "<?php echo $titulo; ?>",
       "image": [
-      "http://localhost/jhonhencker/assets/img/autor.jpg"
+      "http://localhost/jepelaeze/assets/img/autor.jpg"
       ],
       "author": {
         "@type": "Person",
