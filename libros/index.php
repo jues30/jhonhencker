@@ -1,2 +1,3 @@
 <?php
-echo "acceso denegado";
+header ("Location: ../index.php");
+exit();

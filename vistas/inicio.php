@@ -134,7 +134,7 @@
 				</div>
                                 <div class="resume-item pb-0">
                                         <h4><a href="el_pacto_con_baal.php#body">El Pacto con Baal</a></h4>
-					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
+					<p><em>Libro: Literatura Tenebrosa.</em></p>
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
@@ -309,28 +309,28 @@
           <h3><?php echo InterfazGeneral::AUTOR; ?></h3>
             <p class="fst-italic">
                 <br>
-                Con la publicación de "La Bruja" en una antalogía llamada <a href="#">Terror en la Ciudad</a>, Juan Esteban Peláez inició el camino por el mundo de la literatura tenebrosa.
-              El autor en verdad no tuvo una vida trágica como la gran mayoría de los artistas de su género. Su familia fue de clase media y tuvo buena educación (casi toda enfocada a la ingeniería). 
+                Con la publicación de "La Bruja" en una antalogía llamada 
+                <a href="https://itabooks.com/producto/terror-en-la-ciudad-un-libro-sobre-los-miedos-contemporaneos/" target="_blank">Terror en la Ciudad</a>, 
+                Juan Esteban Peláez inició el camino por el mundo de la literatura tenebrosa. Posteriormente ganó un concurso literario que le permitió publicar su primer libro: "Los Jardines Rojos y otros nocturnos".
               Durante su adultez conoció paises que lo inspiraron en varios de sus cuentos y poemas. 
-              Siempre fiel al estilo de sus escritores favoritos, como Bierce, Allan Poe o Baudelarie, intentó siempre dar el giro a sus historias en el último momento, 
+              Siempre fiel al estilo de sus escritores favoritos, como Bierce, Allan Poe, King y Baudelarie, intentó siempre dar el giro a sus historias en el último momento, 
               buscando el anhelado impacto en los lectores. 
             </p>
             <p class="fst-italic">
-              Decidió publicar a la edad de 37 años, aunque la gran mayoría de sus escritos los realizó entre los 15 y los 25 años.
-              Nunca buscó la fama por su literatura, pues su profesión como ingeniero poco tenía que ver con su pasión.
-              De hecho, afirmó que casi siempre escribió para sí mismo.
+              Decidió iniciar sus publicaciones a la edad de 36 años, aunque la gran mayoría de sus escritos los realizó entre los 15 y los 25 años.
+              Nunca buscó la fama por su literatura. De hecho, afirmó que casi siempre escribió para sí mismo.
             </p>
             </div>
             <div class="row" align="justify">
             <p class="fst-italic">
                 <br>
                 Parte de su obra más conocida está formada por dos libros de cuentos cortos: "Los Jardines Rojos y otros nocturnos", y "Literatura Tenebrosa",
-                además de un libro de poemas llamado "La Canción Glacial".
+                además de un libro de poemas llamado "La Canción Glacial", y algunos cuentos publicados en antologías literarias.
                 Finalmente, escribió una saga de literatura fántastica llamada "Nallard", que se compone de 5 libros.
             </p>
             <p class="fst-italic">
                 Para todos sus libros, pidió siempre a sus lectores: "Leer sólo un cuento o poema por día", esperando lograr el choque
-                psicológico que quiso siempre imponer en su oscura obra.
+                psicológico que quiso imponer en su oscura obra.
             </p>
         </div>
       </div>
@@ -349,7 +349,7 @@
       </div>
         <p align="justify">
             El proyecto Nallhard fue una saga de varios libros mitológicos que inicialmente el autor no pensaba publicar.
-            Fue un proyecto de años que el autor creó para sí mismo, pero que finalmente decidió exponer al público.
+            Fue un proyecto de años que Esteban creó para sí mismo, pero que finalmente decidió exponer al público.
             El Nallhard es un mundo imaginario que recopila varias historias fantásticas, con personajes definidos y 
             siempre manejando el estilo detallista y a menudo de suspenso y violencia.
         </p>
@@ -455,7 +455,7 @@
           <div class="info-box">
             <i class="bx bx-envelope"></i>
             <h3>Correo:</h3>
-            <p>contacto@jepelaez.com</p>
+            <p>contacto@juanestebanpelaez.com</p>
           </div>
         </div>
 

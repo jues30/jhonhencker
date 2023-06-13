@@ -86,5 +86,7 @@ class InterfazGeneral {
     const SALEM = 60;
     const EL_PACTO_CON_BAAL = 61;
     
+    const ACTIVO = 1;
+    
     
 }
