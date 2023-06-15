@@ -116,6 +116,51 @@ class DAOObra{
         return $likes;
     }
     
+    function obtenerTotalLikes(){
+        $bd = Db::getInstance();
+        $total_likes = 0;
+        $Sql = "SELECT SUM(likes) AS total_likes
+                FROM ".$this->obj->_tabla."";
+        $result = $bd->ejecutar($Sql);
+        while($row = mysqli_fetch_assoc($result)) {
+            $total_likes = $row['total_likes'];
+        }
+        mysqli_free_result($result); 
+        unset($bd);
+        return $total_likes;
+    }
+    
+    function obtenerTotalVistos(){
+        $bd = Db::getInstance();
+        $total_vistos = 0;
+        $Sql = "SELECT SUM(vistos) AS total_vistos
+                FROM ".$this->obj->_tabla."";
+        $result = $bd->ejecutar($Sql);
+        while($row = mysqli_fetch_assoc($result)) {
+            $total_vistos = $row['total_vistos'];
+        }
+        mysqli_free_result($result); 
+        unset($bd);
+        return $total_vistos;
+    }
+    
+    function obtenerReporteObras(){
+        $bd = Db::getInstance();
+        $consulta = array();
+        $Sql = "SELECT * FROM ".$this->obj->_tabla."";
+        $result = $bd->ejecutar($Sql);
+        $i = 0;
+        while($row = mysqli_fetch_assoc($result)){
+            $consulta[$i]['nombre_obra'] = $row['nombre_obra'];
+            $consulta[$i]['vistos'] = $row['vistos'];
+            $consulta[$i]['likes'] = $row['likes'];
+            ++$i;
+        }
+        mysqli_free_result($result); 
+        unset($bd);
+        return $consulta;
+    }
+    
 }
 
 class DAOObraException extends Exception{

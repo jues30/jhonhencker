@@ -4,6 +4,7 @@ header('Content-Type: text/html; charset=UTF-8');
 date_default_timezone_set('America/Bogota');
 require_once 'funciones/bloquedeseguridad.php';
 require_once 'funciones/funcionesBasicas.php';
+require_once 'funciones/convertir_fecha.php';
 require_once 'InterfazGeneral.php';
 require_once 'funciones/recargarLibrerias.php';
 
@@ -39,8 +40,22 @@ class ejecutarControladorCuenta {
     
     public function ejecutarControladorCuenta() {
         self::inicializarVariables();
-        echo 'Acceso Denegado';
-            exit();
+        $DAOAcceso = new DAOAcceso();
+        $DAOObra = new DAOObra();
+        $cantidad = $DAOAcceso->cantidadAccesos();
+        $visitas_dia = $DAOAcceso->cantidadAccesos(cambiaFechaAMysql(fechaHoy()));
+        $total_likes = $DAOObra->obtenerTotalLikes();
+        $total_vistos = $DAOObra->obtenerTotalVistos();
+        
+        try  {
+            $Seo = objeto::factoria("Seo");
+            $Seo->crear_seo_index();
+        } catch (controladorIndexException $e) {
+            throw new controladorIndexException('Problemas con la instancia: ',  $e->getMessage(), ".\n");
+        }
+        $titulo = InterfazGeneral::AUTOR;
+        $nombre = "";
+        require_once 'vistas/mi_cuenta.php';
     }
 }
 

@@ -53,7 +53,7 @@ class DAOUsuario{
         $contra = $bd->limpiar(md5($Usuario->obtener_contra()));
         $Sql = "SELECT * FROM ".$Usuario->_tabla."
                 WHERE usuario='". stripslashes($nomusuario)."' AND estado = ".InterfazGeneral::ACTIVO."
-                LIMIT 1"; echo $Sql;
+                LIMIT 1"; 
         $result = $bd->ejecutar($Sql);
         $row = mysqli_fetch_assoc($result);
         $UsuarioAux = $this->objetoUsuario($row);

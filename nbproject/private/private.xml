@@ -4,17 +4,19 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/InterfazGeneral.php</file>
-            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/funciones/recargarLibrerias.php</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/vistas/inicio.php</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/mi_cuenta.php</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/clases/DAOUsuario.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/clases/DAOAcceso.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/clases/DAOObra.php</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/index.php</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/autenticacion.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/vistas/mi_cuenta.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/exportar_reportes.php</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/cuenta.php</file>
-            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/vistas/login.php</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/vistas/index.php</file>
-            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/funciones/bloquedeseguridad.php</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/controlador_autenticacion.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/reporte_visitas.php</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/clases/usuario.class.php</file>
         </group>
     </open-files>
