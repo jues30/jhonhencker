@@ -85,6 +85,8 @@ class InterfazGeneral {
     const MONSTRUO = 59;
     const SALEM = 60;
     const EL_PACTO_CON_BAAL = 61;
+    const LOS_DUENDES = 62;
+    const PLEGARIA_A_ARADIA = 63;
     
     const ACTIVO = 1;
     

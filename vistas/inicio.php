@@ -162,6 +162,11 @@
 					<p><em>Libro: Literatura Tenebrosa.</em></p>
 				<p></p>
 				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="los_duendes.php#body">Los Duendes</a></h4>
+					<p><em>Libro: Literatura Tenebrosa.</em></p>
+				<p></p>
+				</div>
                             </div>
                             <div class="col-lg-6">
                             <h3 class="resume-title">Poemas</h3>
@@ -282,6 +287,11 @@
 				</div>
 				<div class="resume-item pb-0">
                                         <h4><a href="el_autoestima_a_pedazos.php#body">El Autoestima a Pedazos</a></h4>
+					<p><em>Estilo: Verso.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="plegaria_a_aradia.php#body">Plegaria a Aradia</a></h4>
 					<p><em>Estilo: Verso.</em></p>
 				<p></p>
 				</div>

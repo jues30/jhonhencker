@@ -12,26 +12,47 @@
             <div class="row">
                 
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h2>EL AUTOESTIMA A PEDAZOS</h2>
+            <h2>PLEGARIA A ARADIA</h2>
                 <div class="row" align="justify">
                     <p>
-                    La bella se condena bajo su ardor
-                    <br>vigilada por ese cielo oscuro,
-                    <br>inundada por el horror de la noche
-                    <br>rebosante de recuerdos borrosos.
+                    Rebosante de una infancia ardiente
+                    <br>llenas de bondad mi corazón deformado
+                    <br>lanzando lejos los terribles estertores
+                    <br>de las bestias que abordan mi alma,
+                    <br>al tiempo que conquistas el abismo
+                    <br>que se abre profundo en mi pecho,
+                    <br>lleno de horror y remordimiento
+                    <br>y plagado de sucios encantos.
                     <br>
-                    <br>Y bajo una aurora titánica,
-                    <br>y derrumbada entre almohadas,
-                    <br>escucha llorar su alma en sus entrañas
-                    <br>arrepentida de sus ásperos actos.
+                    <br>Tú, amada, limpias todo mi ser,
+                    <br>un ser terrible bajo una luna ondulante.
+                    <br>Iluminas esas sombras profundas
+                    <br>y espantas esos cortejos de clamores infernales.
                     <br>
-                    <br>Y a su lado yace un extraño apestoso
-                    <br>que (ella sabe) recorrió con manos callosas
-                    <br>cada punta de su osamenta inmunda.
+                    <br>Tiembla ahogada la tristeza de mi alma
+                    <br>cuando con tu dulce caricia mi espíritu calmas.
+                    <br>Desfila inofensiva en firmes camposantos
+                    <br>parte de mi angustia, exiliada por tu alegría.
                     <br>
-                    <br>-«El autoestima de nuevo abajo»-
-                    <br>piensa ella con infinita desdicha
-                    <br>al tiempo que recoge su dignidad a trozos.
+                    <br>¡No me quites, por lo que más quieras, tu compañía!
+                    <br>Mi humanidad no aguantaría tu fría ausencia. 
+                    <br>Necesito que quites los clavos y abras la celda
+                    <br>en donde mi cuerpo esquelético se revuelca.
+                    <br>
+                    <br>Sé que odias la nube y amas el perfume,
+                    <br>que adivinas y habla con el viento,
+                    <br>que te burlas arrogante de lo ridículo
+                    <br>y que, misteriosa, aplastas el hastío.
+                    <br>
+                    <br>También sé que llamas a los espíritus,
+                    <br>y domas con mano suave las bestias.
+                    <br>Por todo esto, todo esto que amo, te pido
+                    <br>que no me prives de tu corazón tierno.
+                    <br>
+                    <br>A ti, Aradia, vida mía, adoro,
+                    <br>sin ti, vida mía, me extingo,
+                    <br>de ti, vida mía, dependo
+                    <br>y por ti, vida mía, me muero.
                     </p>
                 </div>
             </div>
@@ -39,7 +60,7 @@
         <br>
         <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="plegaria_a_aradia.php#body" title="Plegaria a Aradia">Leer Plegaria a Aradia</a>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="la_estatua.php#body" title="La Estatua">Leer La Estatua</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
