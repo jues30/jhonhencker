@@ -310,7 +310,7 @@
                 <p>
             Entonces todo sucedió muy rápido. Sentí que a ella la halaron con una fuerza bestial. Y de repente sentí una fría mano en mi cuello. La mano me apretó con fuerza descomunal, semejante a la de una máquina poderosa. Me sentí muy sofocado. No podía respirar, y no sabía lo que había sucedido. Solo podía ver esos ojos amarillos brillar de ira y rencor.
             <br>-¡¿Cómo te has atrevido, miserable mortal?! -exclamó Él con voz tempestuosa y ronca. En ese momento un rayo iluminó la estancia, y su pálido rostro fue visible por completo.
-            <br>Yo no podía respirar. Entonces, hostigado y débil, me derrumbé de rodillas, mareado por el dolor en mi garganta y la falta de aire.
+            <br>Yo no podía respirar. Entonces, hostigado y débil, caí de rodillas, mareado por el dolor en mi garganta y la falta de aire.
             <br>Él, bajo truenos furiosos y rayos fugaces, siguió estrangulándome con una sola mano, como si yo tuviera la fuerza de un infante. Sus dientes se apretaban tras sus labios sellados, y sus ojos fulguraban. Tenía el rostro pálido y las manos frías. Pero de repente me soltó el cuello, sin cambiar la furiosa expresión. Entonces me miró con una crueldad que jamás pensé podía tener, y dijo con voz severa mientras la tormenta proseguía: -Escribirás toda tu infamia. Desde que llegaste hasta el día de hoy. Tienes dos días. Después me daré un banquete contigo. Calmaré mi sed con tu sangre, y mi hambre con tu carne. Si te niegas a mis designios, haré que tu tortura dure siete semanas. Desearás la muerte, pero no te la concederé.
             <br>Entonces, quizás por delirio, vi que tras el Yúcida estaban las muertas, mirándome con esas pupilas blancas, con sardónicas sonrisas visibles por sus labios carcomidos, con sus vestidos sangrantes como si sus heridas hubieran revivido, y con sus pálidos rostros. ¡Ellas vigilaban! ¡Esas malditas muertas de ojos vidriosos me habían delatado!
                 </p>
@@ -357,7 +357,7 @@
                 <div class="col-lg-3 col-md-6">
                  <?php if($_COOKIE["cookie_obra"] != $id_obra) { ?>
                     <div class="count-box" id="votar">
-                        <a href="#body" onclick="voto(<?php echo $id_obra; ?>);"><i class="bi bi-hand-thumbs-up-fill" style="color:rgb(255,255,255)"></i></a>
+                        <a href="#body" onClick="voto(<?php echo $id_obra; ?>);"><i class="bi bi-hand-thumbs-up-fill" style="color:rgb(255,255,255)"></i></a>
                         <label class="votacion" id="votacion"><span data-purecounter-start="0" data-purecounter-end="<?php echo $likes; ?>" data-purecounter-duration="1" class="purecounter"></span></label>
                         <p>Me gusta</p>
                     </div>
