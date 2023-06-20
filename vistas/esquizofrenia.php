@@ -27,8 +27,9 @@
                 </div>
             </div>
             <div class="row" align="justify">
-                 <p><br>
-            La discusión siempre se concentró en los caprichos de Dulce, pues ella amaba las joyas azules, y siempre que veía a una mujer con joyas de este color armaba un escándalo, esperando que Nicolás se las quitara a las mujeres para dárselas a ella. Dulce no quería que Nicolás le comprara las joyas, no, ella quería que Nicolás las robara a las otras mujeres, como si la envidia fuera más fuerte que el deseo, y la pérdida de las otras mujeres fuera más importante que tener las joyas ella misma.
+                <p><br><b>Leer completo el cuento en el libro <a href="index.php#portfolio" title="Los Jardines Rojos y otros Nocturnos">Los Jardines Rojos y otros Nocturnos</a></b>
+                </p>
+            <!--La discusión siempre se concentró en los caprichos de Dulce, pues ella amaba las joyas azules, y siempre que veía a una mujer con joyas de este color armaba un escándalo, esperando que Nicolás se las quitara a las mujeres para dárselas a ella. Dulce no quería que Nicolás le comprara las joyas, no, ella quería que Nicolás las robara a las otras mujeres, como si la envidia fuera más fuerte que el deseo, y la pérdida de las otras mujeres fuera más importante que tener las joyas ella misma.
                 </p>
                 <p>
             Por otro lado, el anciano Vladimir siempre establecía los límites. No permitía a Dulce extender mucho el alboroto, y su voz severa y siseante siempre calmaba a Nicolás. Aunque el viejo era muy crítico con el hombre, y lo trataba de tonto e ignorante, era mucho más severo con Dulce, intentando siempre corregirla con ecos sonoros.
@@ -58,12 +59,11 @@
                 <p>
             Entonces se escucharon sirenas de ambulancias y policías. Los gritos se intensificaron, pero Nicolás sólo podía escuchar a Vladimir insultándolo y a Dulce riendo feliz, ambos al mismo tiempo y en ecos enloquecedores y profundos, repitiendo siempre las mismas frases, cada vez más rápido, hasta ser inentendibles. Al mismo tiempo, una tercera voz se superpuso; una respiración estertosa que intentaba desesperadamente obtener aire; como quien está siendo asfixiado; como quien inhala, pero no exhala. Finalmente, lo último que el hombre escuchó fue el sonido de los disparos. Ya para el atardecer la noticia se había propagado como la peste; ahora en el centro de la ciudad había dos pares de ojos vacíos de pensamientos.
                 </p>
-            </div>
+            </div>-->
         </div>
         <br>
         <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="eidhard.php#body" title="Eidhard">Leer Eidhard</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

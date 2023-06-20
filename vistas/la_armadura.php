@@ -30,8 +30,9 @@
                 </div>
             </div>
             <div class="row" align="justify">
-                <p><br>
-            Me apresuré a levantarla, pero apenas tomé el casco el hedor me hizo retroceder. ¡¿Qué demonios habían regado en el interior de mi amada armadura?! Era una armadura negra y dorada de caballero medieval (aunque era una réplica, pues una original es invaluable), con yelmo de cimera plana y airón con puntas, visera a en forma de ‘V’ y repujados tribales. Las hombreras eran anchas y tenían puntas. El peto estaba finamente gravado, al igual que las coderas y las rodilleras. Las grebas eran pulidas y muy gruesas. Las manoplas no estaban, al igual que el ristre y uno de los guardabrazos. Todo lo encontré esparcido por la sala.
+                <p><br><b>Leer completo el cuento en el libro <a href="index.php#portfolio" title="Los Jardines Rojos y otros Nocturnos">Los Jardines Rojos y otros Nocturnos</a></b>
+                </p>
+            <!--Me apresuré a levantarla, pero apenas tomé el casco el hedor me hizo retroceder. ¡¿Qué demonios habían regado en el interior de mi amada armadura?! Era una armadura negra y dorada de caballero medieval (aunque era una réplica, pues una original es invaluable), con yelmo de cimera plana y airón con puntas, visera a en forma de ‘V’ y repujados tribales. Las hombreras eran anchas y tenían puntas. El peto estaba finamente gravado, al igual que las coderas y las rodilleras. Las grebas eran pulidas y muy gruesas. Las manoplas no estaban, al igual que el ristre y uno de los guardabrazos. Todo lo encontré esparcido por la sala.
                 </p>
                 <p>
             Cuando por fin tuve todas las partes, me empeciné en armarla sobre el maniquí. El hedor dentro de la armadura era indescriptible; pero ese hedor me transportaba al suceso en mi cuarto, suceso que no había podido recordar hasta ese momento.
@@ -63,12 +64,11 @@
                 <p>
             Pero cuando decidimos que ya el castigo era suficiente, (pues el hombre había dejado de gritar), le quitamos el yelmo y de inmediato sentimos un horrible y agrio hedor, como el del azufre, y vimos aterrados, enmudecidos, con los corazones a estallar y con los vapores del vino disipados, que bajo el casco sombrío ya no había cabeza alguna.
                 </p>
-            </div>
+            </div>-->
         </div>
         <br>
         <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="el_pacto_con_baal.php#body" title="El Pacto con Baal">Leer El Pacto con Baal</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

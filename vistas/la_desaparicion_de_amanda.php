@@ -30,8 +30,9 @@
                 </div>
             </div>
             <div class="row" align="justify">
-                <p><br>
-            Juliana, madre de Amanda, empezó entonces a sentirse descompensada, y con cada minuto que pasaba se sentía peor. No comía ni dormía bien, y a menudo entraba al cuarto de la niña, miraba la cama vacía de cobijas rosadas, y los juguetes en los estantes, y se apresuraba a llorar, sintiendo un vacío terrible en el pecho. Mientras Danilo, su padre, caminaba incesantemente por el pueblo gritando su nombre. Incluso a altas horas de la noche recorría las calles gritando. Algunos vecinos se molestaban, pero entendía su dolor, y nada decían.
+                <p><br><b>Leer completo el cuento en el libro <a href="index.php#portfolio" title="Los Jardines Rojos y otros Nocturnos">Los Jardines Rojos y otros Nocturnos</a></b>
+                </p>
+            <!--Juliana, madre de Amanda, empezó entonces a sentirse descompensada, y con cada minuto que pasaba se sentía peor. No comía ni dormía bien, y a menudo entraba al cuarto de la niña, miraba la cama vacía de cobijas rosadas, y los juguetes en los estantes, y se apresuraba a llorar, sintiendo un vacío terrible en el pecho. Mientras Danilo, su padre, caminaba incesantemente por el pueblo gritando su nombre. Incluso a altas horas de la noche recorría las calles gritando. Algunos vecinos se molestaban, pero entendía su dolor, y nada decían.
                 </p>
                 <p>
             Y pasó una semana, y aunque el caso tuvo cobertura, no avanzó. Juliana permanecía cada vez más en la habitación, hablando sola, ya al borde de la locura. Sólo ella entraba a la habitación. Se mecía en la silla mirando la cama, abrazándose mientras se decía: «Todo va a estar bien». Pero la falta de sueño empezaba a afectarla, pues cuando Danilo le hablaba ella no le entendía, por lo que el hombre tenía que repetirle varias veces ideas muy básicas. Además, la madre encendía la luz del cuarto de la niña todas las noches, quizás para no sentir tanta soledad.
@@ -42,12 +43,11 @@
                 <p>
             Danilo vio tembloroso el cuerpo de la bebé, e inmediatamente miró a su esposa, que tenía los ojos vidriosos y bien abiertos, aterrorizada, ahogando un grito por falta de fuerzas, mientras un peso gigante y helado de culpa y terror siseaba por todo su cuerpo, haciéndole temblar brazos y piernas. Todo el cuarto entonces pareció oscurecerse; la luz pareció vacilar y el silencio llenó todos los bordes del cuarto, mientras la luna emitía un brillo de plata que entraba por entre las cortinas blancas y alumbraba el cadáver de Amanda de manera fantasmal. Y, finalmente, Juliana pudo lanzar un grito horripilante de negación que retumbó por toda la casa, agudo y espeluznante, mientras todo el pueblo se apresuraba en tropel a su casa y se daba cuenta del macabro hallazgo.
                 </p>
-            </div>
+            </div>-->
         </div>
         <br>
         <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="la_armadura.php#body" title="La Armadura">Leer La Armadura</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

@@ -41,7 +41,9 @@
                 <p class="fst-italic" align="right">
                     Anónimo.
                 </p>
-                <p>
+                <p><br><b>Leer completo el cuento en el libro <a href="index.php#portfolio" title="Los Jardines Rojos y otros Nocturnos">Los Jardines Rojos y otros Nocturnos</a></b>
+                </p>
+               <!-- <p>
             Esta horrible prisión se convirtió en el hogar de reclusión de Oscar por casi un año; llevado allí a inicio de año en un buque totalmente cerrado. Fue condenado por matar a una joven a golpes a causa de sus diferencias políticas, sin conocer que la joven tenía fama de ser una bruja. Lo último que dijo la joven fue el viejo refrán: «En boca cerrada no entran moscas». Inicialmente fue una frase sin sentido, pero de repente tomó mucho significado.
                 </p>
                 <p>
@@ -83,12 +85,11 @@
                 <p>
             Dos días después, ya cumplidos los diez días de aislamiento, los guardias fueron a sacar del «brete» al preso 6312330; pero lo encontraron sin vida, con la cara destruida por los aruñazos, como si tuviera una llaga gigante y roja a la altura de la boca. Estaba esquelético, con el rostro cadavérico y los miembros delgados, las uñas rojas y los dedos ensangrentados. Pero a diferencia de Oscar, los guardias vieron que, con excepción de los rasguños, la boca del preso estaba intacta.
                 </p>
-            </div>
+            </div>-->
         </div>
         <br>
         <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="cada_minuto_a_su_lado.php#body" title="Cada Minuto a su Lado">Leer Cada Minuto a su Lado</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

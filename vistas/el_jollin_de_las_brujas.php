@@ -138,7 +138,7 @@
         <br>
         <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="en_boca_cerrada.php#body" title="En Boca Cerrada...">Leer En Boca Cerrada...</a>
+        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="cada_minuto_a_su_lado.php#body" title="Cada Minuto a su Lado">Leer Cada Minuto a su Lado</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

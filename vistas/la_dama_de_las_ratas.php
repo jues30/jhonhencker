@@ -27,8 +27,9 @@
                 </div>
             </div>
             <div class="row" align="justify">
-                <p><br>
-                Cuando se abrieron paso entre los habitantes de calle, entraron a una de las habitaciones del segundo piso y vieron la miseria en su mayor expresión: Una mujer, abrigada solo con una cobija, yacía amarrada como una bestia. Estaba tan desnutrida, que la piel le forraba los huesos y su rostro estaba cadavérico. Sus caderas sobresalían filosas y no tenía fuerza para levantarse. Las costillas le salían del pecho y la columna de la espalda. Su pelo estaba sucio y arremolinado. En la cama eran visibles las cucarachas, y debajo de la cama y entre las paredes se paseaban ratas negras y monstruosas. La cobija estaba llena de pulgas y de puntos rojos de sangre. La alcoba hedía a heces y a orina a tal punto de que los policías tuvieron que entrar con tapabocas.
+                <p><br><b>Leer completo el cuento en el libro <a href="index.php#portfolio" title="Literatura Tenebrosa">Literatura Tenebrosa</a></b>
+                    </p>
+                <!--Cuando se abrieron paso entre los habitantes de calle, entraron a una de las habitaciones del segundo piso y vieron la miseria en su mayor expresión: Una mujer, abrigada solo con una cobija, yacía amarrada como una bestia. Estaba tan desnutrida, que la piel le forraba los huesos y su rostro estaba cadavérico. Sus caderas sobresalían filosas y no tenía fuerza para levantarse. Las costillas le salían del pecho y la columna de la espalda. Su pelo estaba sucio y arremolinado. En la cama eran visibles las cucarachas, y debajo de la cama y entre las paredes se paseaban ratas negras y monstruosas. La cobija estaba llena de pulgas y de puntos rojos de sangre. La alcoba hedía a heces y a orina a tal punto de que los policías tuvieron que entrar con tapabocas.
                 </p>
                 <p>
                 La mujer no hablaba bien, y desconocía un gran número de palabras, pero se hacía entender. Mediante algunos balbuceos de su parte, e historias de vecinos y habitantes de la calle, se pudo saber que la mujer era hija de una anciana que la había mantenido encerrado por veintiséis años en ese cuarto (toda su vida). La anciana había muerto solo un día antes de que la carta fuera enviada a la policía. La pobre mujer no tenía nombre ni documentos de identificación; para la sociedad «no existía».
@@ -60,12 +61,11 @@
                 <p>
                 Entonces se apresuró a cortase las venas para que la sangre brotara, cerró la puerta y se acostó cómodamente, mientras una sonrisa de alegría se posaba en su rostro famélico y sus ojos desprendían lágrimas de felicidad. Un calor de euforia le llenó el corazón y un aire de consuelo acarició su rostro. Finalmente, la inanición el desangre la vencieron y no la dejaron levantar; pero ella no quería volverse a levantar de la cama. Y se quedó acostada como una niña tierna y dulce mientras las ratas se paseaban por sobre su cuerpo. En poco tiempo, bajo un olor agrio proveniente de la cerrada habitación, Milagros dejó de ser un milagro. Cuando finalmente pudieron entrar a la habitación, los drogadictos vieron que la joven descansaba sobre la cama con una sonrisa sin labios y un hueco en el vientre, el cabello a tiras y la ropa enrojecida; pero descansaba bajo una calma que nunca conoció durante toda su vida.
                 </p>
-            </div>
+            </div>-->
         </div>
         <br>
         <div class="fb-like" data-href="<?php echo $url; ?>" data-width="" data-layout="" data-action="" data-size="" data-share="true"></div>
 	<br></br>
-        <a href="javascript:history.back(-1);" title="Ir la página anterior">Volver</a> | <a href="esquizofrenia.php#body" title="Esquizofrenia">Leer Esquizofrenia</a>
         <div class="counts">
             <div class="row">
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">

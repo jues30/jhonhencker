@@ -43,7 +43,7 @@
 			<div class="col-lg-6">
 				<h3 class="resume-title">Cuentos</h3>
 				<div class="resume-item pb-0">
-					<h4><a href="la_bruja.php#body">La bruja</a></h4>
+					<h4><a href="la_bruja.php#body">La Bruja</a></h4>
 					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
@@ -107,12 +107,7 @@
 					<p><em>Saga: Las Tres Sombras.</em></p>
 				<p></p>
 				</div>
-				<div class="resume-item pb-0">
-                                    <h4><a href="en_boca_cerrada.php#body">En Boca Cerrada...</a></h4>
-					<p><em>Saga: Las Tres Sombras.</em></p>
-				<p></p>
-				</div>
-                                <div class="resume-item pb-0">
+			        <div class="resume-item pb-0">
                                         <h4><a href="cada_minuto_a_su_lado.php#body">Cada Minuto a su Lado</a></h4>
 					<p><em>Libro: Literatura Tenebrosa.</em></p>
 				<p></p>
@@ -123,28 +118,8 @@
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
-                                        <h4><a href="la_desaparicion_de_amanda.php#body">La Desaparición de Amanda</a></h4>
-					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-                                        <h4><a href="la_armadura.php#body">La Armadura</a></h4>
-					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
-				<p></p>
-				</div>
-                                <div class="resume-item pb-0">
                                         <h4><a href="el_pacto_con_baal.php#body">El Pacto con Baal</a></h4>
 					<p><em>Libro: Literatura Tenebrosa.</em></p>
-				<p></p>
-				</div>
-                                <div class="resume-item pb-0">
-                                        <h4><a href="la_dama_de_las_ratas.php#body">La Dama de las Ratas</a></h4>
-					<p><em>Libro: Literatura Tenebrosa.</em></p>
-				<p></p>
-				</div>
-				<div class="resume-item pb-0">
-                                        <h4><a href="esquizofrenia.php#body">Esquizofrenia</a></h4>
-					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
                                 <div class="resume-item pb-0">
@@ -165,6 +140,31 @@
                                 <div class="resume-item pb-0">
                                         <h4><a href="los_duendes.php#body">Los Duendes</a></h4>
 					<p><em>Libro: Literatura Tenebrosa.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+                                    <h4><a href="en_boca_cerrada.php#body">En Boca Cerrada...</a></h4>
+					<p><em>Saga: Las Tres Sombras.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="la_desaparicion_de_amanda.php#body">La Desaparición de Amanda</a></h4>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
+				<p></p>
+				</div>
+				<div class="resume-item pb-0">
+                                        <h4><a href="la_armadura.php#body">La Armadura</a></h4>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
+				<p></p>
+				</div>
+                                <div class="resume-item pb-0">
+                                        <h4><a href="la_dama_de_las_ratas.php#body">La Dama de las Ratas</a></h4>
+					<p><em>Libro: Literatura Tenebrosa.</em></p>
+				<p></p>
+				</div>
+				<div class="resume-item pb-0">
+                                        <h4><a href="esquizofrenia.php#body">Esquizofrenia</a></h4>
+					<p><em>Libro: Los Jardines Rojos y otros Nocturnos.</em></p>
 				<p></p>
 				</div>
                             </div>
@@ -420,7 +420,7 @@
           <div class="icon-box">
                 <p><a href="#"><img src="assets/img/la_cancion_glacial.png" alt="La Canción Glacial"></a></p>
                 <br><p>
-                <a href="#" target="_blank"><img src="assets/img/botones/pdf.jpg" alt="Descargar PDF" width="50px" height="50px"></a>
+                <a href="libros/la_cancion_glacial.pdf" onclick="descarga_libro(7)" target="_blank"><img src="assets/img/botones/pdf.jpg" alt="Descargar PDF" width="50px" height="50px"></a>
                 <!-- <a href="#" target="_blank"><img src="assets/img/botones/amazon.jpg" alt="Comprar en Amazon" width="50px" height="50px"></a>
                 <a href="#" target="_blank"><img src="assets/img/botones/ita_editorial.jpg" alt="Comprar en Ita Editorial" width="50px" height="50px"></a>-->
                 </p>
