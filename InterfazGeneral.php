@@ -90,5 +90,9 @@ class InterfazGeneral {
     
     const ACTIVO = 1;
     
+    const FACEBOOK = "https://www.facebook.com/profile.php?id=100094232079408";
+    const INSTRAGRAM = "https://www.instagram.com/jepelaezescritor/";
+    const YOUTUBE = "#";
+    
     
 }

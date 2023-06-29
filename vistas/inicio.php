@@ -24,9 +24,9 @@
       </nav>
 
       <div class="social-links">
-        <a href="#" class="youtube"><i class="bi bi-youtube"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+          <a href="<?php echo $url_youtube; ?>" target="_blank" class="youtube"><i class="bi bi-youtube"></i></a>
+        <a href="<?php echo $url_facebook; ?>" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="<?php echo $url_instagram; ?>" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
       </div>
 
     </div>
@@ -455,9 +455,9 @@
             <i class="bx bx-share-alt"></i>
             <h3>Redes Sociales</h3>
             <div class="social-links">
-              <a href="#" class="youtube"><i class="bi bi-youtube"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="<?php echo $url_youtube; ?>" target="_blank" class="youtube"><i class="bi bi-youtube"></i></a>
+              <a href="<?php echo $url_facebook; ?>" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="<?php echo $url_instagram; ?>" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
             </div>
           </div>
         </div>
@@ -465,7 +465,7 @@
           <div class="info-box">
             <i class="bx bx-envelope"></i>
             <h3>Correo:</h3>
-            <p>contacto@juanestebanpelaez.com</p>
+            <p>jepelaezescritor@gmail.com</p>
           </div>
         </div>
 

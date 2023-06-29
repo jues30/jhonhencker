@@ -69,6 +69,10 @@ class controladorIndex {
         
         $url = "https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"];
         
+        $url_facebook = InterfazGeneral::FACEBOOK;
+        $url_instagram = InterfazGeneral::INSTRAGRAM;
+        $url_youtube = InterfazGeneral::YOUTUBE;
+        
         require_once 'vistas/inicio.php';
     }
 }
