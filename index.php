@@ -41,7 +41,7 @@ class controladorIndex {
     
     public function inicializar_index() {
         $ip = $_SERVER["REMOTE_ADDR"];
-        $ip = '200.122.253.129';
+        //$ip = '200.122.253.129';
         try  {
             $Seo = objeto::factoria("Seo");
             $Seo->crear_seo_index();
@@ -62,7 +62,7 @@ class controladorIndex {
         $titulo = InterfazGeneral::AUTOR;
         $pais = getCountryFromIP($ip, 'code');
         if($pais == "CO") {
-            $imagen_autor = "assets/img/esteban_pelaez2.jpg";
+            $imagen_autor = "assets/img/esteban_pelaez2.JPG";
         } else {
             $imagen_autor = "assets/img/esteban_pelaez.jpg";
         }

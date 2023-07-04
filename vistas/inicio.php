@@ -469,7 +469,7 @@
           </div>
         </div>
 
-      <form action="forms/contacto.php" method="post" role="form" class="php-email-form mt-4">
+      <!--<form action="forms/contacto.php" method="post" role="form" class="php-email-form mt-4">
         <div class="row">
           <div class="col-md-6 form-group">
             <input type="text" name="name" class="form-control" id="name" placeholder="Tu Nombre" required>
@@ -490,7 +490,7 @@
           <div class="sent-message">Mensaje enviado.</div>
         </div>
         <div class="text-center"><button type="submit">Enviar</button></div>
-      </form>
+      </form>-->
 
     </div>
   </section><!-- End Contact Section -->

@@ -1,4 +1,13 @@
 <head>
+<!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2FQZQNVSHH"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-2FQZQNVSHH');
+  </script>  
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -31,7 +40,7 @@
       "@type": "Literatura de terror",
       "name": "<?php echo $titulo; ?>",
       "image": [
-      "http://localhost/jepelaeze/assets/img/autor.jpg"
+      "https://www.juanestebanpelaez.com//jepelaeze/assets/img/autor.jpg"
       ],
       "author": {
         "@type": "Person",

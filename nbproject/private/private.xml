@@ -3,9 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/.htaccess</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/InterfazGeneral.php</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/vistas/inicio.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/clases/DAOAcceso.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/clases/Conf.class.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/js/descargar_libro.js</file>
             <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/index.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/clases/singleton.class.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/vistas/la_armadura.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/js/like.js</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/la_armadura.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/forms/contacto.php</file>
+            <file>file:/C:/xampp/7.3.3/htdocs/jepelaeze/vistas/headers.php</file>
         </group>
     </open-files>
 </project-private>
